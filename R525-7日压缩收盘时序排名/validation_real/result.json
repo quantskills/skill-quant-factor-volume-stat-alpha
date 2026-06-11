@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.001674608976656101,
+  "ic_std_5d": 0.1968906433826482,
+  "icir_5d": 0.06038145931884584,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0009075948035473723,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.49243573811495334,
+  "factor_id": "R525",
+  "slug": "7d-compressed-close-ts-rank",
+  "name_cn": "7日压缩收盘时序排名",
+  "name_en": "7D Compressed Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

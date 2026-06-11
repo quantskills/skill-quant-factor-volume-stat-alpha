@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0035022355696155056,
+  "ic_std_5d": 0.16380945348841253,
+  "icir_5d": 0.15178248586626517,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0012272950620177538,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.6888648217595585,
+  "factor_id": "R152",
+  "slug": "5d-volatility-scaled-volume-expansion",
+  "name_cn": "5日波动缩放成交量放大",
+  "name_en": "5D Volatility Scaled Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

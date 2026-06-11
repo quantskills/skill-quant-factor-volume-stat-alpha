@@ -1,0 +1,14 @@
+interface:
+  display_name: "7日稳定度缩放收盘时序排名"
+  short_description: "Real-data validated Time Series Rank OHLCV factor."
+  default_prompt: "Use $quant-real-factor-7d-stability-scaled-close-ts-rank to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-volume-stat-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+  collection: "volume-stat-alpha"
+  factor_id: "R459"
+  category: "Time Series Rank"

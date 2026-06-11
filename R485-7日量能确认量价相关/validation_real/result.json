@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195593,
+  "coverage": 0.9931855688425115,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.020933919908467755,
+  "ic_std_5d": 0.17753474178859507,
+  "icir_5d": -0.8371098914193614,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0007140584117479936,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.3373317395705455,
+  "factor_id": "R485",
+  "slug": "7d-volume-confirmed-price-volume-correlation",
+  "name_cn": "7日量能确认量价相关",
+  "name_en": "7D Volume Confirmed Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

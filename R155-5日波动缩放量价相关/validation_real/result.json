@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195426,
+  "coverage": 0.9923375733109909,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.011049364447897569,
+  "ic_std_5d": 0.15436914962054138,
+  "icir_5d": -0.5081501462202112,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0002885834027735096,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3343010474589422,
+  "factor_id": "R155",
+  "slug": "5d-volatility-scaled-price-volume-correlation",
+  "name_cn": "5日波动缩放量价相关",
+  "name_en": "5D Volatility Scaled Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

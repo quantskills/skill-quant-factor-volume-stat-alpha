@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195149,
+  "coverage": 0.9909310178485287,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.02287550525095231,
+  "ic_std_5d": 0.1769489950843529,
+  "icir_5d": -0.9177784643230125,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.0003626072694486322,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.263458300958301,
+  "factor_id": "R452",
+  "slug": "7d-stability-scaled-price-volume-correlation",
+  "name_cn": "7日稳定度缩放量价相关",
+  "name_en": "7D Stability Scaled Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

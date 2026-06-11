@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -4.7158307393736636e-05,
+  "ic_std_5d": 0.1872255710160198,
+  "icir_5d": -0.0017881679781021626,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0004252131761478228,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.48841742862886467,
+  "factor_id": "R657",
+  "slug": "10d-time-series-ranked-close-ts-rank",
+  "name_cn": "10日时序排名收盘时序排名",
+  "name_en": "10D Time-Series Ranked Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

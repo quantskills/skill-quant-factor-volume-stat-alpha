@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0017560528199822344,
+  "ic_std_5d": 0.11768164799470965,
+  "icir_5d": 0.10593612951598705,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.00023948260958356438,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.43001576707920264,
+  "factor_id": "R462",
+  "slug": "7d-stability-scaled-return-kurtosis",
+  "name_cn": "7日稳定度缩放收益峰度",
+  "name_en": "7D Stability Scaled Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004026030722074638,
+  "ic_std_5d": 0.1985873151204471,
+  "icir_5d": 0.14392652791478106,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0004467933163974038,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.39336930281777926,
+  "factor_id": "R096",
+  "slug": "5d-smoothed-close-ts-rank",
+  "name_cn": "5日平滑收盘时序排名",
+  "name_en": "5D Smoothed Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0036628008502503136,
+  "ic_std_5d": 0.16021159083102685,
+  "icir_5d": 0.1623060250306641,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0010189067137171346,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.6504703849461687,
+  "factor_id": "R790",
+  "slug": "10d-compressed-volume-ts-rank",
+  "name_cn": "10日压缩成交量时序排名",
+  "name_en": "10D Compressed Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

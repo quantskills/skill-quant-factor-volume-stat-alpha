@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0011006674146275752,
+  "ic_std_5d": 0.1184018833713309,
+  "icir_5d": 0.06599526346221693,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 4.234026628693055e-05,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.40927828390514953,
+  "factor_id": "R528",
+  "slug": "7d-compressed-return-kurtosis",
+  "name_cn": "7日压缩收益峰度",
+  "name_en": "7D Compressed Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

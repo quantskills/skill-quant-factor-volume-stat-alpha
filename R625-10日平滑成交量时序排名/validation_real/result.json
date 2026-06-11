@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004692835515661582,
+  "ic_std_5d": 0.16232676591456743,
+  "icir_5d": 0.20523927151407018,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0011249782548232931,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.43203485550684195,
+  "factor_id": "R625",
+  "slug": "10d-smoothed-volume-ts-rank",
+  "name_cn": "10日平滑成交量时序排名",
+  "name_en": "10D Smoothed Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

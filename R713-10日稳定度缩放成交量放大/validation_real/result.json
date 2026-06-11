@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.002933037875921744,
+  "ic_std_5d": 0.16280257420293756,
+  "icir_5d": 0.12790033203658993,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0012353645590153918,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.631326810514266,
+  "factor_id": "R713",
+  "slug": "10d-stability-scaled-volume-expansion",
+  "name_cn": "10日稳定度缩放成交量放大",
+  "name_en": "10D Stability Scaled Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

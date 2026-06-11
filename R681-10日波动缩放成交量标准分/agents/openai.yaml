@@ -1,0 +1,14 @@
+interface:
+  display_name: "10日波动缩放成交量标准分"
+  short_description: "Real-data validated Volume OHLCV factor."
+  default_prompt: "Use $quant-real-factor-10d-volatility-scaled-volume-z-score to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-volume-stat-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+  collection: "volume-stat-alpha"
+  factor_id: "R681"
+  category: "Volume"

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0031771433363094316,
+  "ic_std_5d": 0.11493406846771785,
+  "icir_5d": -0.1962471219599709,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.0006609990834578436,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.5507095185641159,
+  "factor_id": "R033",
+  "slug": "5d-z-scored-return-kurtosis",
+  "name_cn": "5日标准化收益峰度",
+  "name_en": "5D Z-Scored Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

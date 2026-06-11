@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0010499796124402553,
+  "ic_std_5d": 0.1147041291254422,
+  "icir_5d": 0.06498559246491939,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0002295038496588482,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3859851654046538,
+  "factor_id": "R660",
+  "slug": "10d-time-series-ranked-return-kurtosis",
+  "name_cn": "10日时序排名收益峰度",
+  "name_en": "10D Time-Series Ranked Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

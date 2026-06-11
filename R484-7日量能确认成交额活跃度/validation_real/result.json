@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005366146776832387,
+  "ic_std_5d": 0.16962689272481543,
+  "icir_5d": 0.2245862217925466,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0009021985729555174,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.6551151170554156,
+  "factor_id": "R484",
+  "slug": "7d-volume-confirmed-dollar-volume-activity",
+  "name_cn": "7日量能确认成交额活跃度",
+  "name_en": "7D Volume Confirmed Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195004,
+  "coverage": 0.9901947343031965,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006842175567613137,
+  "ic_std_5d": 0.19333670967008387,
+  "icir_5d": 0.2512436874531402,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0012242576859188281,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.43471546396765387,
+  "factor_id": "R723",
+  "slug": "10d-stability-scaled-close-ts-rank",
+  "name_cn": "10日稳定度缩放收盘时序排名",
+  "name_en": "10D Stability Scaled Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

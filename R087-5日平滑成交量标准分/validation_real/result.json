@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005058997636809886,
+  "ic_std_5d": 0.16134723803723225,
+  "icir_5d": 0.222596437392798,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0008698291915159236,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.5485493687764802,
+  "factor_id": "R087",
+  "slug": "5d-smoothed-volume-z-score",
+  "name_cn": "5日平滑成交量标准分",
+  "name_en": "5D Smoothed Volume Z-Score",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_z",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

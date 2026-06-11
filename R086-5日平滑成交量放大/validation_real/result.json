@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00415967897283896,
+  "ic_std_5d": 0.1678039433388495,
+  "icir_5d": 0.17598389300568779,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.000972163428975621,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.5098038583134397,
+  "factor_id": "R086",
+  "slug": "5d-smoothed-volume-expansion",
+  "name_cn": "5日平滑成交量放大",
+  "name_en": "5D Smoothed Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

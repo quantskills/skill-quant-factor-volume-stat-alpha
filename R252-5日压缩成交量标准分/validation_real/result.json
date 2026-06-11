@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 196047,
+  "coverage": 0.9954908980120344,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0043397163559952935,
+  "ic_std_5d": 0.16140696137961466,
+  "icir_5d": 0.19087733003813112,
+  "ic_observations": 1406,
+  "long_short_mean_5d": 0.0005268665413597822,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.7427852998065764,
+  "factor_id": "R252",
+  "slug": "5d-compressed-volume-z-score",
+  "name_cn": "5日压缩成交量标准分",
+  "name_en": "5D Compressed Volume Z-Score",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_z",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.001600845126430314,
+  "ic_std_5d": 0.18342161356193729,
+  "icir_5d": -0.06196038059702194,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.00018138129937706667,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.3847957183778079,
+  "factor_id": "R255",
+  "slug": "5d-compressed-obv-slope",
+  "name_cn": "5日压缩OBV斜率",
+  "name_en": "5D Compressed OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

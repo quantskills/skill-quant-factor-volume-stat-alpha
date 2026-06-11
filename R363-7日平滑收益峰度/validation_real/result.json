@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0028806320857035577,
+  "ic_std_5d": 0.12022055778196511,
+  "icir_5d": 0.1701078373868812,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.00021477921099898926,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.2868862882020776,
+  "factor_id": "R363",
+  "slug": "7d-smoothed-return-kurtosis",
+  "name_cn": "7日平滑收益峰度",
+  "name_en": "7D Smoothed Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "smooth",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

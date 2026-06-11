@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0037308905158663715,
+  "ic_std_5d": 0.15180530699288,
+  "icir_5d": 0.17447805791066612,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0005271281570238949,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.7261746243904782,
+  "factor_id": "R196",
+  "slug": "5d-stability-scaled-volume-ts-rank",
+  "name_cn": "5日稳定度缩放成交量时序排名",
+  "name_en": "5D Stability Scaled Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

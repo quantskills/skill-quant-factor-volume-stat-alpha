@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195291,
+  "coverage": 0.9916520679411989,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.006670208583650561,
+  "ic_std_5d": 0.19080813242532427,
+  "icir_5d": -0.2481748695878242,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.0006993637307098152,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5097614985412815,
+  "factor_id": "R294",
+  "slug": "7d-z-scored-close-ts-rank",
+  "name_cn": "7日标准化收盘时序排名",
+  "name_en": "7D Z-Scored Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

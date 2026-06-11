@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0031746208108277886,
+  "ic_std_5d": 0.166462274170258,
+  "icir_5d": 0.13539146998846857,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0005372065235535839,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.6596969696969697,
+  "factor_id": "R286",
+  "slug": "7d-z-scored-dollar-volume-activity",
+  "name_cn": "7日标准化成交额活跃度",
+  "name_en": "7D Z-Scored Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

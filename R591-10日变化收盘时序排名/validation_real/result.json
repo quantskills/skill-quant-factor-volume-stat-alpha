@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.010734559706274968,
+  "ic_std_5d": 0.18697048307360342,
+  "icir_5d": -0.4075927533466483,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.0009428523374974311,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.6230461737497837,
+  "factor_id": "R591",
+  "slug": "10d-delta-close-ts-rank",
+  "name_cn": "10日变化收盘时序排名",
+  "name_en": "10D Delta Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

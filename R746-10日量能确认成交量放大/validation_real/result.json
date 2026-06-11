@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004420227344963707,
+  "ic_std_5d": 0.16814895428549215,
+  "icir_5d": 0.18662323112288398,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0008443147138546285,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.619218840860632,
+  "factor_id": "R746",
+  "slug": "10d-volume-confirmed-volume-expansion",
+  "name_cn": "10日量能确认成交量放大",
+  "name_en": "10D Volume Confirmed Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

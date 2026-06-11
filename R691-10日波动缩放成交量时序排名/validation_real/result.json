@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006721316974744672,
+  "ic_std_5d": 0.15206679237521412,
+  "icir_5d": 0.31378722611819204,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0009003128623999615,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5850430285240231,
+  "factor_id": "R691",
+  "slug": "10d-volatility-scaled-volume-ts-rank",
+  "name_cn": "10日波动缩放成交量时序排名",
+  "name_en": "10D Volatility Scaled Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

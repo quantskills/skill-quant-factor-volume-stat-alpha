@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0006568096243507511,
+  "ic_std_5d": 0.153781267144327,
+  "icir_5d": 0.030321546014989334,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.00043819674616922625,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.7324152706480469,
+  "factor_id": "R130",
+  "slug": "5d-time-series-ranked-volume-ts-rank",
+  "name_cn": "5日时序排名成交量时序排名",
+  "name_en": "5D Time-Series Ranked Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

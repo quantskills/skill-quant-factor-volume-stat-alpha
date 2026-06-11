@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0021966478300529794,
+  "ic_std_5d": 0.10868343552206045,
+  "icir_5d": -0.14348693070522142,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.00047890270438167404,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.9071242294926506,
+  "factor_id": "R066",
+  "slug": "5d-delta-return-kurtosis",
+  "name_cn": "5日变化收益峰度",
+  "name_en": "5D Delta Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

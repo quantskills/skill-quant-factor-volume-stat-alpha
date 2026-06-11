@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.003339187494004802,
+  "ic_std_5d": 0.11472621188220535,
+  "icir_5d": -0.20663002082429924,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.0005424554930920993,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.5621844326114481,
+  "factor_id": "R132",
+  "slug": "5d-time-series-ranked-return-kurtosis",
+  "name_cn": "5日时序排名收益峰度",
+  "name_en": "5D Time-Series Ranked Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

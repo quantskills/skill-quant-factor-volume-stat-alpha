@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.005142597350683423,
+  "ic_std_5d": 0.14000239545828044,
+  "icir_5d": -0.26077281994563545,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0010609367703844491,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.28207142549247816,
+  "factor_id": "R791",
+  "slug": "10d-compressed-return-skewness",
+  "name_cn": "10日压缩收益偏度",
+  "name_en": "10D Compressed Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

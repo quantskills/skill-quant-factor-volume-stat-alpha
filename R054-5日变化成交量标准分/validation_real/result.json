@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00019477611701644056,
+  "ic_std_5d": 0.1543815798645321,
+  "icir_5d": 0.008956853913188977,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0002629001785949839,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.9299352646407295,
+  "factor_id": "R054",
+  "slug": "5d-delta-volume-z-score",
+  "name_cn": "5日变化成交量标准分",
+  "name_en": "5D Delta Volume Z-Score",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_z",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

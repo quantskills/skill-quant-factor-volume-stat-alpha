@@ -1,0 +1,40 @@
+{
+  "repo": "skill-quant-factor-volume-stat-alpha",
+  "factor_count": 216,
+  "id_range": [
+    "R020",
+    "R792"
+  ],
+  "categories": {
+    "Volume": 48,
+    "Liquidity": 24,
+    "Price Volume": 48,
+    "Time Series Rank": 48,
+    "Distribution": 48
+  },
+  "bases": {
+    "volume_ratio": 24,
+    "volume_z": 24,
+    "dollar_volume": 24,
+    "price_volume_corr": 24,
+    "obv_slope": 24,
+    "ts_rank_close": 24,
+    "ts_rank_volume": 24,
+    "ret_skew": 24,
+    "ret_kurt": 24
+  },
+  "validation_pass": 216,
+  "markets": {
+    "{\"cn\": 98, \"us\": 50}": 216
+  },
+  "organization": "QuantSkills",
+  "repository": "skill-quant-factor-volume-stat-alpha",
+  "collection": "volume-stat-alpha",
+  "related_repositories": [
+    "skill-quant-factor-directional-alpha",
+    "skill-quant-factor-risk-pattern-alpha",
+    "skill-quant-factor-volume-stat-alpha"
+  ],
+  "organization_url": "https://github.com/quantskills",
+  "github_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+}

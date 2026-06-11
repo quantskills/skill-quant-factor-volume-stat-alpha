@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.002016695034237098,
+  "ic_std_5d": 0.16290663882251694,
+  "icir_5d": 0.08788539600569104,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0008758848384802286,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.708946082064415,
+  "factor_id": "R119",
+  "slug": "5d-time-series-ranked-volume-expansion",
+  "name_cn": "5日时序排名成交量放大",
+  "name_en": "5D Time-Series Ranked Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

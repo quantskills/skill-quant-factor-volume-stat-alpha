@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.002792258271624417,
+  "ic_std_5d": 0.16492781587306227,
+  "icir_5d": 0.12019238323750567,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.000507663339793147,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.6338274216049223,
+  "factor_id": "R649",
+  "slug": "10d-time-series-ranked-dollar-volume-activity",
+  "name_cn": "10日时序排名成交额活跃度",
+  "name_en": "10D Time-Series Ranked Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

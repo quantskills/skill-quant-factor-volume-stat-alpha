@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0024988622146819807,
+  "ic_std_5d": 0.16310994223487485,
+  "icir_5d": 0.10876198980741751,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0009466735787452351,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.6504899743705714,
+  "factor_id": "R780",
+  "slug": "10d-compressed-volume-z-score",
+  "name_cn": "10日压缩成交量标准分",
+  "name_en": "10D Compressed Volume Z-Score",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_z",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

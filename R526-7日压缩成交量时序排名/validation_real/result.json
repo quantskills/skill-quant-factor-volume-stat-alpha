@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.003591505089484339,
+  "ic_std_5d": 0.159033085107009,
+  "icir_5d": 0.16032611556143095,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0010984412312441735,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.6781933938610827,
+  "factor_id": "R526",
+  "slug": "7d-compressed-volume-ts-rank",
+  "name_cn": "7日压缩成交量时序排名",
+  "name_en": "7D Compressed Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

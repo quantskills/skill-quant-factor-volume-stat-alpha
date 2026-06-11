@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0027105636869338002,
+  "ic_std_5d": 0.12782523636426557,
+  "icir_5d": -0.15054220733103338,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.00040791623610251853,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.33260537141134155,
+  "factor_id": "R098",
+  "slug": "5d-smoothed-return-skewness",
+  "name_cn": "5日平滑收益偏度",
+  "name_en": "5D Smoothed Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

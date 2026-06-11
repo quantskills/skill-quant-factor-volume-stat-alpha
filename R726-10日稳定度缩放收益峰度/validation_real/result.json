@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0007335352484033705,
+  "ic_std_5d": 0.12200085074019137,
+  "icir_5d": -0.04268481434620522,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 1.444482319576529e-06,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3407783253360999,
+  "factor_id": "R726",
+  "slug": "10d-stability-scaled-return-kurtosis",
+  "name_cn": "10日稳定度缩放收益峰度",
+  "name_en": "10D Stability Scaled Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

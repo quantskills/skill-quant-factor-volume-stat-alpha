@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0015041523078794896,
+  "ic_std_5d": 0.12546834556085695,
+  "icir_5d": 0.08510849508283928,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.00025497427517287,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.21495848161328587,
+  "factor_id": "R627",
+  "slug": "10d-smoothed-return-kurtosis",
+  "name_cn": "10日平滑收益峰度",
+  "name_en": "10D Smoothed Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

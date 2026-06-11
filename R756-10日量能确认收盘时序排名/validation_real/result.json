@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.002347939957512241,
+  "ic_std_5d": 0.19580845309393116,
+  "icir_5d": 0.08512768409179856,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0011746072917477987,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.4709656588321313,
+  "factor_id": "R756",
+  "slug": "10d-volume-confirmed-close-ts-rank",
+  "name_cn": "10日量能确认收盘时序排名",
+  "name_en": "10D Volume Confirmed Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

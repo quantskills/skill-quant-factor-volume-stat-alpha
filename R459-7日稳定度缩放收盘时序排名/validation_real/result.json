@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195291,
+  "coverage": 0.9916520679411989,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.001774755488625473,
+  "ic_std_5d": 0.19267943420931494,
+  "icir_5d": 0.06539106849231954,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0005925240328413826,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5142048194028448,
+  "factor_id": "R459",
+  "slug": "7d-stability-scaled-close-ts-rank",
+  "name_cn": "7日稳定度缩放收盘时序排名",
+  "name_en": "7D Stability Scaled Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

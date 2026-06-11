@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0008077485556403405,
+  "ic_std_5d": 0.12953905036034613,
+  "icir_5d": 0.04426808644860564,
+  "ic_observations": 1403,
+  "long_short_mean_5d": -0.000333182552623306,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.8319689431629731,
+  "factor_id": "R329",
+  "slug": "7d-delta-return-skewness",
+  "name_cn": "7日变化收益偏度",
+  "name_en": "7D Delta Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "delta",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

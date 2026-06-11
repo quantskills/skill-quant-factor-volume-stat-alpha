@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005420146911527218,
+  "ic_std_5d": 0.18102689893891744,
+  "icir_5d": 0.212560818879425,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0011321006415142328,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.2928395302056972,
+  "factor_id": "R453",
+  "slug": "7d-stability-scaled-obv-slope",
+  "name_cn": "7日稳定度缩放OBV斜率",
+  "name_en": "7D Stability Scaled OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

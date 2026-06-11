@@ -1,0 +1,14 @@
+interface:
+  display_name: "5日平滑收益峰度"
+  short_description: "Real-data validated Distribution OHLCV factor."
+  default_prompt: "Use $quant-real-factor-5d-smoothed-return-kurtosis to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-volume-stat-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+  collection: "volume-stat-alpha"
+  factor_id: "R099"
+  category: "Distribution"

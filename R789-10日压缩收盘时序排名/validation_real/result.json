@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006346068943186031,
+  "ic_std_5d": 0.19709929008231078,
+  "icir_5d": 0.22857829773771693,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.001552339804474396,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.44320814358536265,
+  "factor_id": "R789",
+  "slug": "10d-compressed-close-ts-rank",
+  "name_cn": "10日压缩收盘时序排名",
+  "name_en": "10D Compressed Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

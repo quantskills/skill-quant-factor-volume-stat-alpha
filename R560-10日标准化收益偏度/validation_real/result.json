@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.002525031953782446,
+  "ic_std_5d": 0.12770416983853652,
+  "icir_5d": 0.14037089481735948,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0006114185705077534,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3338045216789867,
+  "factor_id": "R560",
+  "slug": "10d-z-scored-return-skewness",
+  "name_cn": "10日标准化收益偏度",
+  "name_en": "10D Z-Scored Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

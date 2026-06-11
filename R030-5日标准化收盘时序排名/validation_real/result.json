@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195442,
+  "coverage": 0.9924188183918552,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.010925531886470944,
+  "ic_std_5d": 0.19189670320476496,
+  "icir_5d": -0.4041944477442549,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0012202490734418965,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5794606044591407,
+  "factor_id": "R030",
+  "slug": "5d-z-scored-close-ts-rank",
+  "name_cn": "5日标准化收盘时序排名",
+  "name_en": "5D Z-Scored Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0053236269675367405,
+  "ic_std_5d": 0.1700436384863628,
+  "icir_5d": 0.2222606066708026,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.001278338756445267,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.6190906937175593,
+  "factor_id": "R781",
+  "slug": "10d-compressed-dollar-volume-activity",
+  "name_cn": "10日压缩成交额活跃度",
+  "name_en": "10D Compressed Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006908377990645724,
+  "ic_std_5d": 0.15137170551708215,
+  "icir_5d": 0.3240012277712547,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0009498218193164514,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.6107730936678305,
+  "factor_id": "R427",
+  "slug": "7d-volatility-scaled-volume-ts-rank",
+  "name_cn": "7日波动缩放成交量时序排名",
+  "name_en": "7D Volatility Scaled Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

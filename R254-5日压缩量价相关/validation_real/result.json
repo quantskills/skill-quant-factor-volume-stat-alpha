@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195869,
+  "coverage": 0.9945870464874197,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.021499409892041278,
+  "ic_std_5d": 0.1642859926615644,
+  "icir_5d": -0.9290546721623305,
+  "ic_observations": 1405,
+  "long_short_mean_5d": -0.00013483224808915218,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.3648525711336216,
+  "factor_id": "R254",
+  "slug": "5d-compressed-price-volume-correlation",
+  "name_cn": "5日压缩量价相关",
+  "name_en": "5D Compressed Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0012102797721500443,
+  "ic_std_5d": 0.13257821754547286,
+  "icir_5d": 0.06480803701668819,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.00021128976085612252,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.5822455322455322,
+  "factor_id": "R593",
+  "slug": "10d-delta-return-skewness",
+  "name_cn": "10日变化收益偏度",
+  "name_en": "10D Delta Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

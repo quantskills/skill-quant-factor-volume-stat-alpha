@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.023559037679411084,
+  "ic_std_5d": 0.18052823021218448,
+  "icir_5d": -0.926462169560707,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0002098410751962459,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.2121481337899248,
+  "factor_id": "R353",
+  "slug": "7d-smoothed-price-volume-correlation",
+  "name_cn": "7日平滑量价相关",
+  "name_en": "7D Smoothed Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "smooth",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

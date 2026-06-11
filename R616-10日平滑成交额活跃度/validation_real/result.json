@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00376236299110093,
+  "ic_std_5d": 0.169577122165968,
+  "icir_5d": 0.15751020664131593,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0012064123422665727,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.39995042889779725,
+  "factor_id": "R616",
+  "slug": "10d-smoothed-dollar-volume-activity",
+  "name_cn": "10日平滑成交额活跃度",
+  "name_en": "10D Smoothed Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

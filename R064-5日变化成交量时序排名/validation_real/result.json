@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.00046157452783567797,
+  "ic_std_5d": 0.1465788267858622,
+  "icir_5d": -0.022355575841891955,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0001326447428170936,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.9484781762751301,
+  "factor_id": "R064",
+  "slug": "5d-delta-volume-ts-rank",
+  "name_cn": "5日变化成交量时序排名",
+  "name_en": "5D Delta Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

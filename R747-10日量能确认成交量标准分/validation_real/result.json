@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.00013584737396593813,
+  "ic_std_5d": 0.16260990279895962,
+  "icir_5d": -0.0059308853067873675,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0006795555776254767,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.6404535762744717,
+  "factor_id": "R747",
+  "slug": "10d-volume-confirmed-volume-z-score",
+  "name_cn": "10日量能确认成交量标准分",
+  "name_en": "10D Volume Confirmed Volume Z-Score",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_z",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.003117064435056573,
+  "ic_std_5d": 0.1806586731315187,
+  "icir_5d": 0.12249045053108873,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0001917617898121214,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.4896859952250445,
+  "factor_id": "R162",
+  "slug": "5d-volatility-scaled-close-ts-rank",
+  "name_cn": "5日波动缩放收盘时序排名",
+  "name_en": "5D Volatility Scaled Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

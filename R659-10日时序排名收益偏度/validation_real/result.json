@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.002784803072460767,
+  "ic_std_5d": 0.12777519121484326,
+  "icir_5d": 0.15472597145275857,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0010209731637264062,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3709739280491022,
+  "factor_id": "R659",
+  "slug": "10d-time-series-ranked-return-skewness",
+  "name_cn": "10日时序排名收益偏度",
+  "name_en": "10D Time-Series Ranked Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

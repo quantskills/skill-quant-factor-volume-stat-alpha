@@ -1,0 +1,14 @@
+interface:
+  display_name: "5日压缩收益偏度"
+  short_description: "Real-data validated Distribution OHLCV factor."
+  default_prompt: "Use $quant-real-factor-5d-compressed-return-skewness to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-volume-stat-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+  collection: "volume-stat-alpha"
+  factor_id: "R263"
+  category: "Distribution"

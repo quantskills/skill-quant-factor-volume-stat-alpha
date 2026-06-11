@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012014285936995278,
+  "ic_std_5d": 0.18016083055532303,
+  "icir_5d": 0.47342681927796476,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0020666196089993024,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.18417147924642568,
+  "factor_id": "R618",
+  "slug": "10d-smoothed-obv-slope",
+  "name_cn": "10日平滑OBV斜率",
+  "name_en": "10D Smoothed OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

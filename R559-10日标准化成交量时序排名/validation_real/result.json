@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.001729821117531962,
+  "ic_std_5d": 0.1577711431118714,
+  "icir_5d": 0.07783750214361924,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.00040835435963253343,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.6499763458975286,
+  "factor_id": "R559",
+  "slug": "10d-z-scored-volume-ts-rank",
+  "name_cn": "10日标准化成交量时序排名",
+  "name_en": "10D Z-Scored Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

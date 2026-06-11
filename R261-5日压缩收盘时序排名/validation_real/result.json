@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 196047,
+  "coverage": 0.9954908980120344,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.003817637129220655,
+  "ic_std_5d": 0.19639829222175686,
+  "icir_5d": -0.137997814037351,
+  "ic_observations": 1406,
+  "long_short_mean_5d": 0.0006826976192517834,
+  "long_short_observations": 1391,
+  "turnover_top_quintile": 0.5357971551482948,
+  "factor_id": "R261",
+  "slug": "5d-compressed-close-ts-rank",
+  "name_cn": "5日压缩收盘时序排名",
+  "name_en": "5D Compressed Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

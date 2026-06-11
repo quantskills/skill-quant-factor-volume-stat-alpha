@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0006540626640373672,
+  "ic_std_5d": 0.17168797329774302,
+  "icir_5d": 0.027045483705824224,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.00022137373969242162,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3620059054269581,
+  "factor_id": "R156",
+  "slug": "5d-volatility-scaled-obv-slope",
+  "name_cn": "5日波动缩放OBV斜率",
+  "name_en": "5D Volatility Scaled OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

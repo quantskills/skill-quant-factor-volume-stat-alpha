@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004754049219596694,
+  "ic_std_5d": 0.15091424187497723,
+  "icir_5d": 0.22363960453155807,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0016054756374907853,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.33193630636788346,
+  "factor_id": "R650",
+  "slug": "10d-time-series-ranked-price-volume-correlation",
+  "name_cn": "10日时序排名量价相关",
+  "name_en": "10D Time-Series Ranked Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

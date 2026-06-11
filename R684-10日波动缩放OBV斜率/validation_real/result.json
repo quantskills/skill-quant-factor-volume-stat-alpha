@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.016645654618224526,
+  "ic_std_5d": 0.16869122772695466,
+  "icir_5d": 0.7005250154873456,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0021069319781189307,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.20474322396576317,
+  "factor_id": "R684",
+  "slug": "10d-volatility-scaled-obv-slope",
+  "name_cn": "10日波动缩放OBV斜率",
+  "name_en": "10D Volatility Scaled OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

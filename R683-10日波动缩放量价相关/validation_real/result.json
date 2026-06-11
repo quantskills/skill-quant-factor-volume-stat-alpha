@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195452,
+  "coverage": 0.9924695965673953,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.012301744160461047,
+  "ic_std_5d": 0.16704873784475716,
+  "icir_5d": -0.5228038298059,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0001396351925609675,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.22725332988490882,
+  "factor_id": "R683",
+  "slug": "10d-volatility-scaled-price-volume-correlation",
+  "name_cn": "10日波动缩放量价相关",
+  "name_en": "10D Volatility Scaled Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

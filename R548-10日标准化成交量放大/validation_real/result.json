@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00282206357762136,
+  "ic_std_5d": 0.16533116727220382,
+  "icir_5d": 0.12117899041285797,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0005855866875110975,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.6278461737834511,
+  "factor_id": "R548",
+  "slug": "10d-z-scored-volume-expansion",
+  "name_cn": "10日标准化成交量放大",
+  "name_en": "10D Z-Scored Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

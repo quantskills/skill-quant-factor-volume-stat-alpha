@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00590606978370053,
+  "ic_std_5d": 0.16755947510782643,
+  "icir_5d": 0.25023315468689383,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0010389183896258344,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.6990663565290431,
+  "factor_id": "R218",
+  "slug": "5d-volume-confirmed-volume-expansion",
+  "name_cn": "5日量能确认成交量放大",
+  "name_en": "5D Volume Confirmed Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

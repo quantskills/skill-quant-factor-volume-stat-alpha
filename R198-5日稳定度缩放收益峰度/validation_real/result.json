@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.002266786140624909,
+  "ic_std_5d": 0.1150459109628996,
+  "icir_5d": -0.13987967982784985,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.0004348160411148964,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.5436024536167088,
+  "factor_id": "R198",
+  "slug": "5d-stability-scaled-return-kurtosis",
+  "name_cn": "5日稳定度缩放收益峰度",
+  "name_en": "5D Stability Scaled Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

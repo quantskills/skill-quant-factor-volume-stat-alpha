@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194567,
+  "coverage": 0.9879757280320918,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0017318987449889704,
+  "ic_std_5d": 0.18087227043424117,
+  "icir_5d": -0.0679775918796571,
+  "ic_observations": 1396,
+  "long_short_mean_5d": -0.0001770603180706826,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.3606396103896104,
+  "factor_id": "R585",
+  "slug": "10d-delta-obv-slope",
+  "name_cn": "10日变化OBV斜率",
+  "name_en": "10D Delta OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

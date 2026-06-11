@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0030325492625170427,
+  "ic_std_5d": 0.1776626564983177,
+  "icir_5d": 0.12117889310115508,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0006229925807955012,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.30444163260009083,
+  "factor_id": "R288",
+  "slug": "7d-z-scored-obv-slope",
+  "name_cn": "7日标准化OBV斜率",
+  "name_en": "7D Z-Scored OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

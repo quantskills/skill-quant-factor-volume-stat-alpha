@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011629880692872232,
+  "ic_std_5d": 0.201283989898641,
+  "icir_5d": 0.4101864360793447,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0016189856049088293,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.29268349005191113,
+  "factor_id": "R624",
+  "slug": "10d-smoothed-close-ts-rank",
+  "name_cn": "10日平滑收盘时序排名",
+  "name_en": "10D Smoothed Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

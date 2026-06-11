@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0032287760438787275,
+  "ic_std_5d": 0.15502783771947898,
+  "icir_5d": 0.1478575483604042,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0006414465759254994,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.693366360672264,
+  "factor_id": "R460",
+  "slug": "7d-stability-scaled-volume-ts-rank",
+  "name_cn": "7日稳定度缩放成交量时序排名",
+  "name_en": "7D Stability Scaled Volume TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_volume",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

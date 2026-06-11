@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195442,
+  "coverage": 0.9924188183918552,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.004190078166521928,
+  "ic_std_5d": 0.19050551546287184,
+  "icir_5d": -0.1561456318175648,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 8.459463359423759e-05,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5769367998654195,
+  "factor_id": "R195",
+  "slug": "5d-stability-scaled-close-ts-rank",
+  "name_cn": "5日稳定度缩放收盘时序排名",
+  "name_en": "5D Stability Scaled Close TS Rank",
+  "category_cn": "排序",
+  "category_en": "Time Series Rank",
+  "base": "ts_rank_close",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

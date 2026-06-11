@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195751,
+  "coverage": 0.9939878640160459,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0032949224104047306,
+  "ic_std_5d": 0.16058717105496578,
+  "icir_5d": 0.14566312163806816,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.0003787290799395048,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.8929773588154272,
+  "factor_id": "R319",
+  "slug": "7d-delta-dollar-volume-activity",
+  "name_cn": "7日变化成交额活跃度",
+  "name_en": "7D Delta Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "delta",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

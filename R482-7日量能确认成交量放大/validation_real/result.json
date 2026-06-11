@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0053899714443333205,
+  "ic_std_5d": 0.16867563973599867,
+  "icir_5d": 0.22685552799358388,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0009659861619564677,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.657248390084211,
+  "factor_id": "R482",
+  "slug": "7d-volume-confirmed-volume-expansion",
+  "name_cn": "7日量能确认成交量放大",
+  "name_en": "7D Volume Confirmed Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

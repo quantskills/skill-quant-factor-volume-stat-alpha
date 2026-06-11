@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0041106599652380995,
+  "ic_std_5d": 0.1648834633537523,
+  "icir_5d": 0.17699040391964443,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.00031172357106034747,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.7051763183435782,
+  "factor_id": "R581",
+  "slug": "10d-delta-volume-expansion",
+  "name_cn": "10日变化成交量放大",
+  "name_en": "10D Delta Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

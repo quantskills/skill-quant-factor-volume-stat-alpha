@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0023472005529180497,
+  "ic_std_5d": 0.15974414605617807,
+  "icir_5d": 0.1043134994113545,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0004805132999216953,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.9022797169709875,
+  "factor_id": "R053",
+  "slug": "5d-delta-volume-expansion",
+  "name_cn": "5日变化成交量放大",
+  "name_en": "5D Delta Volume Expansion",
+  "category_cn": "量能",
+  "category_en": "Volume",
+  "base": "volume_ratio",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

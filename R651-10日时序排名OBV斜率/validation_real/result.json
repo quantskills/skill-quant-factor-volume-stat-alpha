@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194271,
+  "coverage": 0.9864726940361033,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011910759396191037,
+  "ic_std_5d": 0.16968074075022632,
+  "icir_5d": 0.4983358928322613,
+  "ic_observations": 1394,
+  "long_short_mean_5d": 0.002019058419170817,
+  "long_short_observations": 1394,
+  "turnover_top_quintile": 0.25832628461808044,
+  "factor_id": "R651",
+  "slug": "10d-time-series-ranked-obv-slope",
+  "name_cn": "10日时序排名OBV斜率",
+  "name_en": "10D Time-Series Ranked OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

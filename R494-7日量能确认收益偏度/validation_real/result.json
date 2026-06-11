@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.001660926417645102,
+  "ic_std_5d": 0.1383076682037308,
+  "icir_5d": -0.08525491025852926,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0009237874100167208,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.38715513342379015,
+  "factor_id": "R494",
+  "slug": "7d-volume-confirmed-return-skewness",
+  "name_cn": "7日量能确认收益偏度",
+  "name_en": "7D Volume Confirmed Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

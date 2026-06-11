@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.003323491548512987,
+  "ic_std_5d": 0.16607198169587786,
+  "icir_5d": 0.14207363066552597,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0005618621129395495,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.7015819647398595,
+  "factor_id": "R022",
+  "slug": "5d-z-scored-dollar-volume-activity",
+  "name_cn": "5日标准化成交额活跃度",
+  "name_en": "5D Z-Scored Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

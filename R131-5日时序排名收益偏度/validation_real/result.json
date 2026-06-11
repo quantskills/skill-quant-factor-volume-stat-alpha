@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0010985545994348061,
+  "ic_std_5d": 0.12462524252934658,
+  "icir_5d": 0.0625793284677487,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 1.8199210715134143e-05,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.5107432571577161,
+  "factor_id": "R131",
+  "slug": "5d-time-series-ranked-return-skewness",
+  "name_cn": "5日时序排名收益偏度",
+  "name_en": "5D Time-Series Ranked Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

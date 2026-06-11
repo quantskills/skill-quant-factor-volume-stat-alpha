@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0028077605006558773,
+  "ic_std_5d": 0.16457726894689684,
+  "icir_5d": 0.12111710376534911,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0012626966897051357,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.6618106330205975,
+  "factor_id": "R451",
+  "slug": "7d-stability-scaled-dollar-volume-activity",
+  "name_cn": "7日稳定度缩放成交额活跃度",
+  "name_en": "7D Stability Scaled Dollar Volume Activity",
+  "category_cn": "流动性",
+  "category_en": "Liquidity",
+  "base": "dollar_volume",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

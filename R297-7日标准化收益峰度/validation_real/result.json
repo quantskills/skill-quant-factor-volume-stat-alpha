@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0006685993217355093,
+  "ic_std_5d": 0.11625056471988712,
+  "icir_5d": 0.040830634481763266,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.00010366643507885258,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.4370396768828701,
+  "factor_id": "R297",
+  "slug": "7d-z-scored-return-kurtosis",
+  "name_cn": "7日标准化收益峰度",
+  "name_en": "7D Z-Scored Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

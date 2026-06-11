@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.008136966990506835,
+  "ic_std_5d": 0.13928938559085377,
+  "icir_5d": -0.414724602631436,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0008046571401514655,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.29221566593178583,
+  "factor_id": "R725",
+  "slug": "10d-stability-scaled-return-skewness",
+  "name_cn": "10日稳定度缩放收益偏度",
+  "name_en": "10D Stability Scaled Return Skewness",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_skew",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

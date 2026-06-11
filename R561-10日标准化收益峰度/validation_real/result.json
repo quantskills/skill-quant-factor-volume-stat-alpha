@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0005317580159211843,
+  "ic_std_5d": 0.1165014889906771,
+  "icir_5d": 0.03240394135471589,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.00017174898312483525,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.35626377901698875,
+  "factor_id": "R561",
+  "slug": "10d-z-scored-return-kurtosis",
+  "name_cn": "10日标准化收益峰度",
+  "name_en": "10D Z-Scored Return Kurtosis",
+  "category_cn": "分布",
+  "category_en": "Distribution",
+  "base": "ret_kurt",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

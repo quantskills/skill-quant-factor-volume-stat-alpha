@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008948787213884054,
+  "ic_std_5d": 0.18205910970312916,
+  "icir_5d": 0.3489530792871488,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0022334372156480385,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.2514135650369601,
+  "factor_id": "R750",
+  "slug": "10d-volume-confirmed-obv-slope",
+  "name_cn": "10日量能确认OBV斜率",
+  "name_en": "10D Volume Confirmed OBV Slope",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "obv_slope",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

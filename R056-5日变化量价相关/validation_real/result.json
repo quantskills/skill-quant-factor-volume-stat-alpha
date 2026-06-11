@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195707,
+  "coverage": 0.9937644400436693,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0013910740399787637,
+  "ic_std_5d": 0.13537552310578008,
+  "icir_5d": -0.07295001178269891,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.00018044463957778508,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.7977724690082646,
+  "factor_id": "R056",
+  "slug": "5d-delta-price-volume-correlation",
+  "name_cn": "5日变化量价相关",
+  "name_en": "5D Delta Price Volume Correlation",
+  "category_cn": "量价",
+  "category_en": "Price Volume",
+  "base": "price_volume_corr",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}
