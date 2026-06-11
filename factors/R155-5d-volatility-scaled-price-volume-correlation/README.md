@@ -55,3 +55,9 @@ This factor combines `Price Volume Correlation` with a `Volatility Scaled` trans
 - Top-quintile turnover: `0.3343`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

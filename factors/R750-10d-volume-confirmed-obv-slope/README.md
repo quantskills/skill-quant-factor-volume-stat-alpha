@@ -69,3 +69,9 @@ This factor combines OBV Slope with a Volume Confirmed transform to test cross-s
 - Top-quintile turnover: `0.2514`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

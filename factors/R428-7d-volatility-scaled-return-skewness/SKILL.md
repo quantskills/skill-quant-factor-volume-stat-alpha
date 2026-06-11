@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R428
   category: Distribution
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Volatility Scaled Return Skewness

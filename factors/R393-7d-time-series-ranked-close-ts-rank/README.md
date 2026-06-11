@@ -55,3 +55,9 @@ This factor combines `Close TS Rank` with a `Time-Series Ranked` transform to te
 - Top-quintile turnover: `0.5361`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

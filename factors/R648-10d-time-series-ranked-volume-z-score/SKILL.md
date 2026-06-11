@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R648
   category: Volume
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 10D Time-Series Ranked Volume Z-Score

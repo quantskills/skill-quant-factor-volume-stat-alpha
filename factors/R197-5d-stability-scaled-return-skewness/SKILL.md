@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R197
   category: Distribution
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Stability Scaled Return Skewness

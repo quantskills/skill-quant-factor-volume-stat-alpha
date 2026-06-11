@@ -104,3 +104,9 @@ result = compute_factor(df)
 - `factor_index.json`：本仓库全部因子的元数据索引
 - `validation_summary_real.json`：本仓库全部因子的真实行情验证汇总
 - `repo_summary.json`：仓库级别统计信息
+
+## License
+
+This repository is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
+
+Copyright (C) 2026 QuantSkills.

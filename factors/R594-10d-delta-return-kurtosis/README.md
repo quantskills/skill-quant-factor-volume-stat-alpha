@@ -69,3 +69,9 @@ This factor combines Return Kurtosis with a Delta transform to test cross-sectio
 - Top-quintile turnover: `0.5799`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R459
   category: Time Series Rank
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Stability Scaled Close TS Rank

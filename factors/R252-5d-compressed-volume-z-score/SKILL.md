@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R252
   category: Volume
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Compressed Volume Z-Score

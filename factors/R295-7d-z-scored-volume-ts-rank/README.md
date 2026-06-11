@@ -55,3 +55,9 @@ This factor combines `Volume TS Rank` with a `Z-Scored` transform to test whethe
 - Top-quintile turnover: `0.6904`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

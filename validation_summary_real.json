@@ -33,7 +33,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R020-5d-z-scored-volume-expansion"
+    "path": "factors/R020-5d-z-scored-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -69,7 +71,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R021-5d-z-scored-volume-z-score"
+    "path": "factors/R021-5d-z-scored-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -105,7 +109,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R022-5d-z-scored-dollar-volume-activity"
+    "path": "factors/R022-5d-z-scored-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -141,7 +147,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R023-5d-z-scored-price-volume-correlation"
+    "path": "factors/R023-5d-z-scored-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -177,7 +185,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R024-5d-z-scored-obv-slope"
+    "path": "factors/R024-5d-z-scored-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -213,7 +223,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R030-5d-z-scored-close-ts-rank"
+    "path": "factors/R030-5d-z-scored-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -249,7 +261,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R031-5d-z-scored-volume-ts-rank"
+    "path": "factors/R031-5d-z-scored-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -285,7 +299,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R032-5d-z-scored-return-skewness"
+    "path": "factors/R032-5d-z-scored-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -321,7 +337,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R033-5d-z-scored-return-kurtosis"
+    "path": "factors/R033-5d-z-scored-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -357,7 +375,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R053-5d-delta-volume-expansion"
+    "path": "factors/R053-5d-delta-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -393,7 +413,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R054-5d-delta-volume-z-score"
+    "path": "factors/R054-5d-delta-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -429,7 +451,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R055-5d-delta-dollar-volume-activity"
+    "path": "factors/R055-5d-delta-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -465,7 +489,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R056-5d-delta-price-volume-correlation"
+    "path": "factors/R056-5d-delta-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -501,7 +527,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R057-5d-delta-obv-slope"
+    "path": "factors/R057-5d-delta-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -537,7 +565,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R063-5d-delta-close-ts-rank"
+    "path": "factors/R063-5d-delta-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -573,7 +603,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R064-5d-delta-volume-ts-rank"
+    "path": "factors/R064-5d-delta-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -609,7 +641,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R065-5d-delta-return-skewness"
+    "path": "factors/R065-5d-delta-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -645,7 +679,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R066-5d-delta-return-kurtosis"
+    "path": "factors/R066-5d-delta-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -681,7 +717,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R086-5d-smoothed-volume-expansion"
+    "path": "factors/R086-5d-smoothed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -717,7 +755,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R087-5d-smoothed-volume-z-score"
+    "path": "factors/R087-5d-smoothed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -753,7 +793,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R088-5d-smoothed-dollar-volume-activity"
+    "path": "factors/R088-5d-smoothed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -789,7 +831,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R089-5d-smoothed-price-volume-correlation"
+    "path": "factors/R089-5d-smoothed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -825,7 +869,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R090-5d-smoothed-obv-slope"
+    "path": "factors/R090-5d-smoothed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -861,7 +907,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R096-5d-smoothed-close-ts-rank"
+    "path": "factors/R096-5d-smoothed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -897,7 +945,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R097-5d-smoothed-volume-ts-rank"
+    "path": "factors/R097-5d-smoothed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -933,7 +983,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R098-5d-smoothed-return-skewness"
+    "path": "factors/R098-5d-smoothed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -969,7 +1021,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R099-5d-smoothed-return-kurtosis"
+    "path": "factors/R099-5d-smoothed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1005,7 +1059,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R119-5d-time-series-ranked-volume-expansion"
+    "path": "factors/R119-5d-time-series-ranked-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1041,7 +1097,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R120-5d-time-series-ranked-volume-z-score"
+    "path": "factors/R120-5d-time-series-ranked-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1077,7 +1135,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R121-5d-time-series-ranked-dollar-volume-activity"
+    "path": "factors/R121-5d-time-series-ranked-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1113,7 +1173,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R122-5d-time-series-ranked-price-volume-correlation"
+    "path": "factors/R122-5d-time-series-ranked-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1149,7 +1211,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R123-5d-time-series-ranked-obv-slope"
+    "path": "factors/R123-5d-time-series-ranked-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1185,7 +1249,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R129-5d-time-series-ranked-close-ts-rank"
+    "path": "factors/R129-5d-time-series-ranked-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1221,7 +1287,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R130-5d-time-series-ranked-volume-ts-rank"
+    "path": "factors/R130-5d-time-series-ranked-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1257,7 +1325,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R131-5d-time-series-ranked-return-skewness"
+    "path": "factors/R131-5d-time-series-ranked-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1293,7 +1363,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R132-5d-time-series-ranked-return-kurtosis"
+    "path": "factors/R132-5d-time-series-ranked-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1329,7 +1401,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R152-5d-volatility-scaled-volume-expansion"
+    "path": "factors/R152-5d-volatility-scaled-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1365,7 +1439,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R153-5d-volatility-scaled-volume-z-score"
+    "path": "factors/R153-5d-volatility-scaled-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1401,7 +1477,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R154-5d-volatility-scaled-dollar-volume-activity"
+    "path": "factors/R154-5d-volatility-scaled-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1437,7 +1515,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R155-5d-volatility-scaled-price-volume-correlation"
+    "path": "factors/R155-5d-volatility-scaled-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1473,7 +1553,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R156-5d-volatility-scaled-obv-slope"
+    "path": "factors/R156-5d-volatility-scaled-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1509,7 +1591,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R162-5d-volatility-scaled-close-ts-rank"
+    "path": "factors/R162-5d-volatility-scaled-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1545,7 +1629,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R163-5d-volatility-scaled-volume-ts-rank"
+    "path": "factors/R163-5d-volatility-scaled-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1581,7 +1667,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R164-5d-volatility-scaled-return-skewness"
+    "path": "factors/R164-5d-volatility-scaled-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1617,7 +1705,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R165-5d-volatility-scaled-return-kurtosis"
+    "path": "factors/R165-5d-volatility-scaled-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1653,7 +1743,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R185-5d-stability-scaled-volume-expansion"
+    "path": "factors/R185-5d-stability-scaled-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1689,7 +1781,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R186-5d-stability-scaled-volume-z-score"
+    "path": "factors/R186-5d-stability-scaled-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1725,7 +1819,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R187-5d-stability-scaled-dollar-volume-activity"
+    "path": "factors/R187-5d-stability-scaled-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1761,7 +1857,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R188-5d-stability-scaled-price-volume-correlation"
+    "path": "factors/R188-5d-stability-scaled-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1797,7 +1895,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R189-5d-stability-scaled-obv-slope"
+    "path": "factors/R189-5d-stability-scaled-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1833,7 +1933,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R195-5d-stability-scaled-close-ts-rank"
+    "path": "factors/R195-5d-stability-scaled-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1869,7 +1971,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R196-5d-stability-scaled-volume-ts-rank"
+    "path": "factors/R196-5d-stability-scaled-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1905,7 +2009,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R197-5d-stability-scaled-return-skewness"
+    "path": "factors/R197-5d-stability-scaled-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1941,7 +2047,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R198-5d-stability-scaled-return-kurtosis"
+    "path": "factors/R198-5d-stability-scaled-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -1977,7 +2085,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R218-5d-volume-confirmed-volume-expansion"
+    "path": "factors/R218-5d-volume-confirmed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2013,7 +2123,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R219-5d-volume-confirmed-volume-z-score"
+    "path": "factors/R219-5d-volume-confirmed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2049,7 +2161,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R220-5d-volume-confirmed-dollar-volume-activity"
+    "path": "factors/R220-5d-volume-confirmed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2085,7 +2199,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R221-5d-volume-confirmed-price-volume-correlation"
+    "path": "factors/R221-5d-volume-confirmed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2121,7 +2237,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R222-5d-volume-confirmed-obv-slope"
+    "path": "factors/R222-5d-volume-confirmed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2157,7 +2275,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R228-5d-volume-confirmed-close-ts-rank"
+    "path": "factors/R228-5d-volume-confirmed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2193,7 +2313,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R229-5d-volume-confirmed-volume-ts-rank"
+    "path": "factors/R229-5d-volume-confirmed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2229,7 +2351,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R230-5d-volume-confirmed-return-skewness"
+    "path": "factors/R230-5d-volume-confirmed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2265,7 +2389,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R231-5d-volume-confirmed-return-kurtosis"
+    "path": "factors/R231-5d-volume-confirmed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2301,7 +2427,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R251-5d-compressed-volume-expansion"
+    "path": "factors/R251-5d-compressed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2337,7 +2465,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R252-5d-compressed-volume-z-score"
+    "path": "factors/R252-5d-compressed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2373,7 +2503,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R253-5d-compressed-dollar-volume-activity"
+    "path": "factors/R253-5d-compressed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2409,7 +2541,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R254-5d-compressed-price-volume-correlation"
+    "path": "factors/R254-5d-compressed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2445,7 +2579,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R255-5d-compressed-obv-slope"
+    "path": "factors/R255-5d-compressed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2481,7 +2617,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R261-5d-compressed-close-ts-rank"
+    "path": "factors/R261-5d-compressed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2517,7 +2655,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R262-5d-compressed-volume-ts-rank"
+    "path": "factors/R262-5d-compressed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2553,7 +2693,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R263-5d-compressed-return-skewness"
+    "path": "factors/R263-5d-compressed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2589,7 +2731,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R264-5d-compressed-return-kurtosis"
+    "path": "factors/R264-5d-compressed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2625,7 +2769,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R284-7d-z-scored-volume-expansion"
+    "path": "factors/R284-7d-z-scored-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2661,7 +2807,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R285-7d-z-scored-volume-z-score"
+    "path": "factors/R285-7d-z-scored-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2697,7 +2845,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R286-7d-z-scored-dollar-volume-activity"
+    "path": "factors/R286-7d-z-scored-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2733,7 +2883,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R287-7d-z-scored-price-volume-correlation"
+    "path": "factors/R287-7d-z-scored-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2769,7 +2921,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R288-7d-z-scored-obv-slope"
+    "path": "factors/R288-7d-z-scored-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2805,7 +2959,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R294-7d-z-scored-close-ts-rank"
+    "path": "factors/R294-7d-z-scored-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2841,7 +2997,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R295-7d-z-scored-volume-ts-rank"
+    "path": "factors/R295-7d-z-scored-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2877,7 +3035,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R296-7d-z-scored-return-skewness"
+    "path": "factors/R296-7d-z-scored-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2913,7 +3073,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R297-7d-z-scored-return-kurtosis"
+    "path": "factors/R297-7d-z-scored-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2949,7 +3111,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R317-7d-delta-volume-expansion"
+    "path": "factors/R317-7d-delta-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -2985,7 +3149,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R318-7d-delta-volume-z-score"
+    "path": "factors/R318-7d-delta-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3021,7 +3187,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R319-7d-delta-dollar-volume-activity"
+    "path": "factors/R319-7d-delta-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3057,7 +3225,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R320-7d-delta-price-volume-correlation"
+    "path": "factors/R320-7d-delta-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3093,7 +3263,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R321-7d-delta-obv-slope"
+    "path": "factors/R321-7d-delta-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3129,7 +3301,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R327-7d-delta-close-ts-rank"
+    "path": "factors/R327-7d-delta-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3165,7 +3339,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R328-7d-delta-volume-ts-rank"
+    "path": "factors/R328-7d-delta-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3201,7 +3377,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R329-7d-delta-return-skewness"
+    "path": "factors/R329-7d-delta-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3237,7 +3415,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R330-7d-delta-return-kurtosis"
+    "path": "factors/R330-7d-delta-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3273,7 +3453,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R350-7d-smoothed-volume-expansion"
+    "path": "factors/R350-7d-smoothed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3309,7 +3491,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R351-7d-smoothed-volume-z-score"
+    "path": "factors/R351-7d-smoothed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3345,7 +3529,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R352-7d-smoothed-dollar-volume-activity"
+    "path": "factors/R352-7d-smoothed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3381,7 +3567,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R353-7d-smoothed-price-volume-correlation"
+    "path": "factors/R353-7d-smoothed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3417,7 +3605,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R354-7d-smoothed-obv-slope"
+    "path": "factors/R354-7d-smoothed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3453,7 +3643,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R360-7d-smoothed-close-ts-rank"
+    "path": "factors/R360-7d-smoothed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3489,7 +3681,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R361-7d-smoothed-volume-ts-rank"
+    "path": "factors/R361-7d-smoothed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3525,7 +3719,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R362-7d-smoothed-return-skewness"
+    "path": "factors/R362-7d-smoothed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3561,7 +3757,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R363-7d-smoothed-return-kurtosis"
+    "path": "factors/R363-7d-smoothed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3597,7 +3795,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R383-7d-time-series-ranked-volume-expansion"
+    "path": "factors/R383-7d-time-series-ranked-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3633,7 +3833,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R384-7d-time-series-ranked-volume-z-score"
+    "path": "factors/R384-7d-time-series-ranked-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3669,7 +3871,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R385-7d-time-series-ranked-dollar-volume-activity"
+    "path": "factors/R385-7d-time-series-ranked-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3705,7 +3909,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R386-7d-time-series-ranked-price-volume-correlation"
+    "path": "factors/R386-7d-time-series-ranked-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3741,7 +3947,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R387-7d-time-series-ranked-obv-slope"
+    "path": "factors/R387-7d-time-series-ranked-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3777,7 +3985,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R393-7d-time-series-ranked-close-ts-rank"
+    "path": "factors/R393-7d-time-series-ranked-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3813,7 +4023,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R394-7d-time-series-ranked-volume-ts-rank"
+    "path": "factors/R394-7d-time-series-ranked-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3849,7 +4061,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R395-7d-time-series-ranked-return-skewness"
+    "path": "factors/R395-7d-time-series-ranked-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3885,7 +4099,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R396-7d-time-series-ranked-return-kurtosis"
+    "path": "factors/R396-7d-time-series-ranked-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3921,7 +4137,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R416-7d-volatility-scaled-volume-expansion"
+    "path": "factors/R416-7d-volatility-scaled-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3957,7 +4175,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R417-7d-volatility-scaled-volume-z-score"
+    "path": "factors/R417-7d-volatility-scaled-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -3993,7 +4213,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R418-7d-volatility-scaled-dollar-volume-activity"
+    "path": "factors/R418-7d-volatility-scaled-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4029,7 +4251,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R419-7d-volatility-scaled-price-volume-correlation"
+    "path": "factors/R419-7d-volatility-scaled-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4065,7 +4289,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R420-7d-volatility-scaled-obv-slope"
+    "path": "factors/R420-7d-volatility-scaled-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4101,7 +4327,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R426-7d-volatility-scaled-close-ts-rank"
+    "path": "factors/R426-7d-volatility-scaled-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4137,7 +4365,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R427-7d-volatility-scaled-volume-ts-rank"
+    "path": "factors/R427-7d-volatility-scaled-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4173,7 +4403,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R428-7d-volatility-scaled-return-skewness"
+    "path": "factors/R428-7d-volatility-scaled-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4209,7 +4441,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R429-7d-volatility-scaled-return-kurtosis"
+    "path": "factors/R429-7d-volatility-scaled-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4245,7 +4479,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R449-7d-stability-scaled-volume-expansion"
+    "path": "factors/R449-7d-stability-scaled-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4281,7 +4517,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R450-7d-stability-scaled-volume-z-score"
+    "path": "factors/R450-7d-stability-scaled-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4317,7 +4555,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R451-7d-stability-scaled-dollar-volume-activity"
+    "path": "factors/R451-7d-stability-scaled-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4353,7 +4593,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R452-7d-stability-scaled-price-volume-correlation"
+    "path": "factors/R452-7d-stability-scaled-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4389,7 +4631,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R453-7d-stability-scaled-obv-slope"
+    "path": "factors/R453-7d-stability-scaled-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4425,7 +4669,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R459-7d-stability-scaled-close-ts-rank"
+    "path": "factors/R459-7d-stability-scaled-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4461,7 +4707,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R460-7d-stability-scaled-volume-ts-rank"
+    "path": "factors/R460-7d-stability-scaled-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4497,7 +4745,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R461-7d-stability-scaled-return-skewness"
+    "path": "factors/R461-7d-stability-scaled-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4533,7 +4783,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R462-7d-stability-scaled-return-kurtosis"
+    "path": "factors/R462-7d-stability-scaled-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4569,7 +4821,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R482-7d-volume-confirmed-volume-expansion"
+    "path": "factors/R482-7d-volume-confirmed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4605,7 +4859,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R483-7d-volume-confirmed-volume-z-score"
+    "path": "factors/R483-7d-volume-confirmed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4641,7 +4897,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R484-7d-volume-confirmed-dollar-volume-activity"
+    "path": "factors/R484-7d-volume-confirmed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4677,7 +4935,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R485-7d-volume-confirmed-price-volume-correlation"
+    "path": "factors/R485-7d-volume-confirmed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4713,7 +4973,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R486-7d-volume-confirmed-obv-slope"
+    "path": "factors/R486-7d-volume-confirmed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4749,7 +5011,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R492-7d-volume-confirmed-close-ts-rank"
+    "path": "factors/R492-7d-volume-confirmed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4785,7 +5049,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R493-7d-volume-confirmed-volume-ts-rank"
+    "path": "factors/R493-7d-volume-confirmed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4821,7 +5087,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R494-7d-volume-confirmed-return-skewness"
+    "path": "factors/R494-7d-volume-confirmed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4857,7 +5125,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R495-7d-volume-confirmed-return-kurtosis"
+    "path": "factors/R495-7d-volume-confirmed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4893,7 +5163,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R515-7d-compressed-volume-expansion"
+    "path": "factors/R515-7d-compressed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4929,7 +5201,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R516-7d-compressed-volume-z-score"
+    "path": "factors/R516-7d-compressed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -4965,7 +5239,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R517-7d-compressed-dollar-volume-activity"
+    "path": "factors/R517-7d-compressed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5001,7 +5277,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R518-7d-compressed-price-volume-correlation"
+    "path": "factors/R518-7d-compressed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5037,7 +5315,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R519-7d-compressed-obv-slope"
+    "path": "factors/R519-7d-compressed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5073,7 +5353,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R525-7d-compressed-close-ts-rank"
+    "path": "factors/R525-7d-compressed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5109,7 +5391,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R526-7d-compressed-volume-ts-rank"
+    "path": "factors/R526-7d-compressed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5145,7 +5429,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R527-7d-compressed-return-skewness"
+    "path": "factors/R527-7d-compressed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5181,7 +5467,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R528-7d-compressed-return-kurtosis"
+    "path": "factors/R528-7d-compressed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5217,7 +5505,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R548-10d-z-scored-volume-expansion"
+    "path": "factors/R548-10d-z-scored-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5253,7 +5543,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R549-10d-z-scored-volume-z-score"
+    "path": "factors/R549-10d-z-scored-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5289,7 +5581,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R550-10d-z-scored-dollar-volume-activity"
+    "path": "factors/R550-10d-z-scored-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5325,7 +5619,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R551-10d-z-scored-price-volume-correlation"
+    "path": "factors/R551-10d-z-scored-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5361,7 +5657,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R552-10d-z-scored-obv-slope"
+    "path": "factors/R552-10d-z-scored-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5397,7 +5695,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R558-10d-z-scored-close-ts-rank"
+    "path": "factors/R558-10d-z-scored-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5433,7 +5733,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R559-10d-z-scored-volume-ts-rank"
+    "path": "factors/R559-10d-z-scored-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5469,7 +5771,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R560-10d-z-scored-return-skewness"
+    "path": "factors/R560-10d-z-scored-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5505,7 +5809,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R561-10d-z-scored-return-kurtosis"
+    "path": "factors/R561-10d-z-scored-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5541,7 +5847,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R581-10d-delta-volume-expansion"
+    "path": "factors/R581-10d-delta-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5577,7 +5885,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R582-10d-delta-volume-z-score"
+    "path": "factors/R582-10d-delta-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5613,7 +5923,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R583-10d-delta-dollar-volume-activity"
+    "path": "factors/R583-10d-delta-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5649,7 +5961,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R584-10d-delta-price-volume-correlation"
+    "path": "factors/R584-10d-delta-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5685,7 +5999,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R585-10d-delta-obv-slope"
+    "path": "factors/R585-10d-delta-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5721,7 +6037,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R591-10d-delta-close-ts-rank"
+    "path": "factors/R591-10d-delta-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5757,7 +6075,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R592-10d-delta-volume-ts-rank"
+    "path": "factors/R592-10d-delta-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5793,7 +6113,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R593-10d-delta-return-skewness"
+    "path": "factors/R593-10d-delta-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5829,7 +6151,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R594-10d-delta-return-kurtosis"
+    "path": "factors/R594-10d-delta-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5865,7 +6189,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R614-10d-smoothed-volume-expansion"
+    "path": "factors/R614-10d-smoothed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5901,7 +6227,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R615-10d-smoothed-volume-z-score"
+    "path": "factors/R615-10d-smoothed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5937,7 +6265,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R616-10d-smoothed-dollar-volume-activity"
+    "path": "factors/R616-10d-smoothed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -5973,7 +6303,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R617-10d-smoothed-price-volume-correlation"
+    "path": "factors/R617-10d-smoothed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6009,7 +6341,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R618-10d-smoothed-obv-slope"
+    "path": "factors/R618-10d-smoothed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6045,7 +6379,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R624-10d-smoothed-close-ts-rank"
+    "path": "factors/R624-10d-smoothed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6081,7 +6417,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R625-10d-smoothed-volume-ts-rank"
+    "path": "factors/R625-10d-smoothed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6117,7 +6455,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R626-10d-smoothed-return-skewness"
+    "path": "factors/R626-10d-smoothed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6153,7 +6493,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R627-10d-smoothed-return-kurtosis"
+    "path": "factors/R627-10d-smoothed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6189,7 +6531,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R647-10d-time-series-ranked-volume-expansion"
+    "path": "factors/R647-10d-time-series-ranked-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6225,7 +6569,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R648-10d-time-series-ranked-volume-z-score"
+    "path": "factors/R648-10d-time-series-ranked-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6261,7 +6607,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R649-10d-time-series-ranked-dollar-volume-activity"
+    "path": "factors/R649-10d-time-series-ranked-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6297,7 +6645,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R650-10d-time-series-ranked-price-volume-correlation"
+    "path": "factors/R650-10d-time-series-ranked-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6333,7 +6683,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R651-10d-time-series-ranked-obv-slope"
+    "path": "factors/R651-10d-time-series-ranked-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6369,7 +6721,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R657-10d-time-series-ranked-close-ts-rank"
+    "path": "factors/R657-10d-time-series-ranked-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6405,7 +6759,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R658-10d-time-series-ranked-volume-ts-rank"
+    "path": "factors/R658-10d-time-series-ranked-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6441,7 +6797,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R659-10d-time-series-ranked-return-skewness"
+    "path": "factors/R659-10d-time-series-ranked-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6477,7 +6835,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R660-10d-time-series-ranked-return-kurtosis"
+    "path": "factors/R660-10d-time-series-ranked-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6513,7 +6873,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R680-10d-volatility-scaled-volume-expansion"
+    "path": "factors/R680-10d-volatility-scaled-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6549,7 +6911,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R681-10d-volatility-scaled-volume-z-score"
+    "path": "factors/R681-10d-volatility-scaled-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6585,7 +6949,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R682-10d-volatility-scaled-dollar-volume-activity"
+    "path": "factors/R682-10d-volatility-scaled-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6621,7 +6987,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R683-10d-volatility-scaled-price-volume-correlation"
+    "path": "factors/R683-10d-volatility-scaled-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6657,7 +7025,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R684-10d-volatility-scaled-obv-slope"
+    "path": "factors/R684-10d-volatility-scaled-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6693,7 +7063,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R690-10d-volatility-scaled-close-ts-rank"
+    "path": "factors/R690-10d-volatility-scaled-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6729,7 +7101,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R691-10d-volatility-scaled-volume-ts-rank"
+    "path": "factors/R691-10d-volatility-scaled-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6765,7 +7139,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R692-10d-volatility-scaled-return-skewness"
+    "path": "factors/R692-10d-volatility-scaled-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6801,7 +7177,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R693-10d-volatility-scaled-return-kurtosis"
+    "path": "factors/R693-10d-volatility-scaled-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6837,7 +7215,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R713-10d-stability-scaled-volume-expansion"
+    "path": "factors/R713-10d-stability-scaled-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6873,7 +7253,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R714-10d-stability-scaled-volume-z-score"
+    "path": "factors/R714-10d-stability-scaled-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6909,7 +7291,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R715-10d-stability-scaled-dollar-volume-activity"
+    "path": "factors/R715-10d-stability-scaled-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6945,7 +7329,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R716-10d-stability-scaled-price-volume-correlation"
+    "path": "factors/R716-10d-stability-scaled-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -6981,7 +7367,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R717-10d-stability-scaled-obv-slope"
+    "path": "factors/R717-10d-stability-scaled-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7017,7 +7405,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R723-10d-stability-scaled-close-ts-rank"
+    "path": "factors/R723-10d-stability-scaled-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7053,7 +7443,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R724-10d-stability-scaled-volume-ts-rank"
+    "path": "factors/R724-10d-stability-scaled-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7089,7 +7481,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R725-10d-stability-scaled-return-skewness"
+    "path": "factors/R725-10d-stability-scaled-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7125,7 +7519,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R726-10d-stability-scaled-return-kurtosis"
+    "path": "factors/R726-10d-stability-scaled-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7161,7 +7557,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R746-10d-volume-confirmed-volume-expansion"
+    "path": "factors/R746-10d-volume-confirmed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7197,7 +7595,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R747-10d-volume-confirmed-volume-z-score"
+    "path": "factors/R747-10d-volume-confirmed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7233,7 +7633,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R748-10d-volume-confirmed-dollar-volume-activity"
+    "path": "factors/R748-10d-volume-confirmed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7269,7 +7671,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R749-10d-volume-confirmed-price-volume-correlation"
+    "path": "factors/R749-10d-volume-confirmed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7305,7 +7709,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R750-10d-volume-confirmed-obv-slope"
+    "path": "factors/R750-10d-volume-confirmed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7341,7 +7747,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R756-10d-volume-confirmed-close-ts-rank"
+    "path": "factors/R756-10d-volume-confirmed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7377,7 +7785,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R757-10d-volume-confirmed-volume-ts-rank"
+    "path": "factors/R757-10d-volume-confirmed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7413,7 +7823,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R758-10d-volume-confirmed-return-skewness"
+    "path": "factors/R758-10d-volume-confirmed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7449,7 +7861,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R759-10d-volume-confirmed-return-kurtosis"
+    "path": "factors/R759-10d-volume-confirmed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7485,7 +7899,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R779-10d-compressed-volume-expansion"
+    "path": "factors/R779-10d-compressed-volume-expansion",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7521,7 +7937,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R780-10d-compressed-volume-z-score"
+    "path": "factors/R780-10d-compressed-volume-z-score",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7557,7 +7975,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R781-10d-compressed-dollar-volume-activity"
+    "path": "factors/R781-10d-compressed-dollar-volume-activity",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7593,7 +8013,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R782-10d-compressed-price-volume-correlation"
+    "path": "factors/R782-10d-compressed-price-volume-correlation",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7629,7 +8051,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R783-10d-compressed-obv-slope"
+    "path": "factors/R783-10d-compressed-obv-slope",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7665,7 +8089,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R789-10d-compressed-close-ts-rank"
+    "path": "factors/R789-10d-compressed-close-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7701,7 +8127,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R790-10d-compressed-volume-ts-rank"
+    "path": "factors/R790-10d-compressed-volume-ts-rank",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7737,7 +8165,9 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R791-10d-compressed-return-skewness"
+    "path": "factors/R791-10d-compressed-return-skewness",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "sample_rows": 196935,
@@ -7773,6 +8203,8 @@
     },
     "no_future_check": true,
     "status": "pass",
-    "path": "factors/R792-10d-compressed-return-kurtosis"
+    "path": "factors/R792-10d-compressed-return-kurtosis",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   }
 ]

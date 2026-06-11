@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R130
   category: Time Series Rank
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Time-Series Ranked Volume TS Rank

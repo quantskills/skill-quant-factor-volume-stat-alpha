@@ -55,3 +55,9 @@ This factor combines `Dollar Volume Activity` with a `Volatility Scaled` transfo
 - Top-quintile turnover: `0.6884`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

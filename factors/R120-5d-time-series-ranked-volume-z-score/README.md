@@ -55,3 +55,9 @@ This factor combines `Volume Z-Score` with a `Time-Series Ranked` transform to t
 - Top-quintile turnover: `0.7412`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

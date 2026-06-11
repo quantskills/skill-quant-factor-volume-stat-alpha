@@ -69,3 +69,9 @@ This factor combines Price Volume Correlation with a Z-Scored transform to test 
 - Top-quintile turnover: `0.2706`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

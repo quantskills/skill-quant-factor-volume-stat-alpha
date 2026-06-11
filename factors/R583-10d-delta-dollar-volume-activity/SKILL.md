@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R583
   category: Liquidity
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 10D Delta Dollar Volume Activity

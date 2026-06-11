@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R748
   category: Liquidity
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 10D Volume Confirmed Dollar Volume Activity

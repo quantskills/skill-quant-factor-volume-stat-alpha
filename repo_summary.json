@@ -38,5 +38,8 @@
   "organization_url": "https://github.com/quantskills",
   "github_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
   "factor_root": "factors",
-  "folder_naming": "<factor_id>-<english_slug>"
+  "folder_naming": "<factor_id>-<english_slug>",
+  "license": "GPL-3.0-only",
+  "license_name": "GNU General Public License v3.0",
+  "copyright": "Copyright (C) 2026 QuantSkills"
 }

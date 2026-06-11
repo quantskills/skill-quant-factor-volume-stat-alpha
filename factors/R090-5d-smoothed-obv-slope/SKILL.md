@@ -9,6 +9,8 @@ metadata:
   collection: volume-stat-alpha
   factor_id: R090
   category: Price Volume
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Smoothed OBV Slope
