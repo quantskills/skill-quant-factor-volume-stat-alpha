@@ -36,22 +36,23 @@ QuantSkills 将这批 OHLCV 因子按研究用途拆分为三个公开 Skill 仓
 
 ## 单个因子结构
 
-每个因子都是一个独立 Skill 文件夹：
+每个因子都是一个独立 Skill 文件夹，统一放在 `factors/` 目录下，文件夹命名格式为 `<factor_id>-<english_slug>`：
 
 ```text
-R020-5日标准化成交量放大/
-  SKILL.md
-  README.md
-  scripts/
-    factor.py
-    validate.py
-  validation_real/
-    result.json
-    report.md
-  references/
-    formula.md
-  agents/
-    openai.yaml
+factors/
+  R020-5d-z-scored-volume-expansion/
+    SKILL.md
+    README.md
+    scripts/
+      factor.py
+      validate.py
+    validation_real/
+      result.json
+      report.md
+    references/
+      formula.md
+    agents/
+      openai.yaml
 ```
 
 ## 数据要求

@@ -36,5 +36,7 @@
     "skill-quant-factor-volume-stat-alpha"
   ],
   "organization_url": "https://github.com/quantskills",
-  "github_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+  "github_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+  "factor_root": "factors",
+  "folder_naming": "<factor_id>-<english_slug>"
 }

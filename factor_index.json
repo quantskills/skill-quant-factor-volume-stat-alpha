@@ -25,7 +25,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R020-5d-z-scored-volume-expansion"
   },
   {
     "factor_id": "R021",
@@ -53,7 +54,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R021-5d-z-scored-volume-z-score"
   },
   {
     "factor_id": "R022",
@@ -81,7 +83,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R022-5d-z-scored-dollar-volume-activity"
   },
   {
     "factor_id": "R023",
@@ -109,7 +112,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R023-5d-z-scored-price-volume-correlation"
   },
   {
     "factor_id": "R024",
@@ -137,7 +141,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R024-5d-z-scored-obv-slope"
   },
   {
     "factor_id": "R030",
@@ -165,7 +170,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R030-5d-z-scored-close-ts-rank"
   },
   {
     "factor_id": "R031",
@@ -193,7 +199,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R031-5d-z-scored-volume-ts-rank"
   },
   {
     "factor_id": "R032",
@@ -221,7 +228,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R032-5d-z-scored-return-skewness"
   },
   {
     "factor_id": "R033",
@@ -249,7 +257,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R033-5d-z-scored-return-kurtosis"
   },
   {
     "factor_id": "R053",
@@ -277,7 +286,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R053-5d-delta-volume-expansion"
   },
   {
     "factor_id": "R054",
@@ -305,7 +315,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R054-5d-delta-volume-z-score"
   },
   {
     "factor_id": "R055",
@@ -333,7 +344,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R055-5d-delta-dollar-volume-activity"
   },
   {
     "factor_id": "R056",
@@ -361,7 +373,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R056-5d-delta-price-volume-correlation"
   },
   {
     "factor_id": "R057",
@@ -389,7 +402,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R057-5d-delta-obv-slope"
   },
   {
     "factor_id": "R063",
@@ -417,7 +431,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R063-5d-delta-close-ts-rank"
   },
   {
     "factor_id": "R064",
@@ -445,7 +460,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R064-5d-delta-volume-ts-rank"
   },
   {
     "factor_id": "R065",
@@ -473,7 +489,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R065-5d-delta-return-skewness"
   },
   {
     "factor_id": "R066",
@@ -501,7 +518,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R066-5d-delta-return-kurtosis"
   },
   {
     "factor_id": "R086",
@@ -529,7 +547,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R086-5d-smoothed-volume-expansion"
   },
   {
     "factor_id": "R087",
@@ -557,7 +576,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R087-5d-smoothed-volume-z-score"
   },
   {
     "factor_id": "R088",
@@ -585,7 +605,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R088-5d-smoothed-dollar-volume-activity"
   },
   {
     "factor_id": "R089",
@@ -613,7 +634,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R089-5d-smoothed-price-volume-correlation"
   },
   {
     "factor_id": "R090",
@@ -641,7 +663,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R090-5d-smoothed-obv-slope"
   },
   {
     "factor_id": "R096",
@@ -669,7 +692,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R096-5d-smoothed-close-ts-rank"
   },
   {
     "factor_id": "R097",
@@ -697,7 +721,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R097-5d-smoothed-volume-ts-rank"
   },
   {
     "factor_id": "R098",
@@ -725,7 +750,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R098-5d-smoothed-return-skewness"
   },
   {
     "factor_id": "R099",
@@ -753,7 +779,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R099-5d-smoothed-return-kurtosis"
   },
   {
     "factor_id": "R119",
@@ -781,7 +808,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R119-5d-time-series-ranked-volume-expansion"
   },
   {
     "factor_id": "R120",
@@ -809,7 +837,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R120-5d-time-series-ranked-volume-z-score"
   },
   {
     "factor_id": "R121",
@@ -837,7 +866,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R121-5d-time-series-ranked-dollar-volume-activity"
   },
   {
     "factor_id": "R122",
@@ -865,7 +895,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R122-5d-time-series-ranked-price-volume-correlation"
   },
   {
     "factor_id": "R123",
@@ -893,7 +924,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R123-5d-time-series-ranked-obv-slope"
   },
   {
     "factor_id": "R129",
@@ -921,7 +953,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R129-5d-time-series-ranked-close-ts-rank"
   },
   {
     "factor_id": "R130",
@@ -949,7 +982,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R130-5d-time-series-ranked-volume-ts-rank"
   },
   {
     "factor_id": "R131",
@@ -977,7 +1011,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R131-5d-time-series-ranked-return-skewness"
   },
   {
     "factor_id": "R132",
@@ -1005,7 +1040,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R132-5d-time-series-ranked-return-kurtosis"
   },
   {
     "factor_id": "R152",
@@ -1033,7 +1069,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R152-5d-volatility-scaled-volume-expansion"
   },
   {
     "factor_id": "R153",
@@ -1061,7 +1098,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R153-5d-volatility-scaled-volume-z-score"
   },
   {
     "factor_id": "R154",
@@ -1089,7 +1127,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R154-5d-volatility-scaled-dollar-volume-activity"
   },
   {
     "factor_id": "R155",
@@ -1117,7 +1156,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R155-5d-volatility-scaled-price-volume-correlation"
   },
   {
     "factor_id": "R156",
@@ -1145,7 +1185,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R156-5d-volatility-scaled-obv-slope"
   },
   {
     "factor_id": "R162",
@@ -1173,7 +1214,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R162-5d-volatility-scaled-close-ts-rank"
   },
   {
     "factor_id": "R163",
@@ -1201,7 +1243,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R163-5d-volatility-scaled-volume-ts-rank"
   },
   {
     "factor_id": "R164",
@@ -1229,7 +1272,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R164-5d-volatility-scaled-return-skewness"
   },
   {
     "factor_id": "R165",
@@ -1257,7 +1301,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R165-5d-volatility-scaled-return-kurtosis"
   },
   {
     "factor_id": "R185",
@@ -1285,7 +1330,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R185-5d-stability-scaled-volume-expansion"
   },
   {
     "factor_id": "R186",
@@ -1313,7 +1359,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R186-5d-stability-scaled-volume-z-score"
   },
   {
     "factor_id": "R187",
@@ -1341,7 +1388,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R187-5d-stability-scaled-dollar-volume-activity"
   },
   {
     "factor_id": "R188",
@@ -1369,7 +1417,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R188-5d-stability-scaled-price-volume-correlation"
   },
   {
     "factor_id": "R189",
@@ -1397,7 +1446,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R189-5d-stability-scaled-obv-slope"
   },
   {
     "factor_id": "R195",
@@ -1425,7 +1475,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R195-5d-stability-scaled-close-ts-rank"
   },
   {
     "factor_id": "R196",
@@ -1453,7 +1504,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R196-5d-stability-scaled-volume-ts-rank"
   },
   {
     "factor_id": "R197",
@@ -1481,7 +1533,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R197-5d-stability-scaled-return-skewness"
   },
   {
     "factor_id": "R198",
@@ -1509,7 +1562,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R198-5d-stability-scaled-return-kurtosis"
   },
   {
     "factor_id": "R218",
@@ -1537,7 +1591,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R218-5d-volume-confirmed-volume-expansion"
   },
   {
     "factor_id": "R219",
@@ -1565,7 +1620,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R219-5d-volume-confirmed-volume-z-score"
   },
   {
     "factor_id": "R220",
@@ -1593,7 +1649,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R220-5d-volume-confirmed-dollar-volume-activity"
   },
   {
     "factor_id": "R221",
@@ -1621,7 +1678,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R221-5d-volume-confirmed-price-volume-correlation"
   },
   {
     "factor_id": "R222",
@@ -1649,7 +1707,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R222-5d-volume-confirmed-obv-slope"
   },
   {
     "factor_id": "R228",
@@ -1677,7 +1736,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R228-5d-volume-confirmed-close-ts-rank"
   },
   {
     "factor_id": "R229",
@@ -1705,7 +1765,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R229-5d-volume-confirmed-volume-ts-rank"
   },
   {
     "factor_id": "R230",
@@ -1733,7 +1794,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R230-5d-volume-confirmed-return-skewness"
   },
   {
     "factor_id": "R231",
@@ -1761,7 +1823,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R231-5d-volume-confirmed-return-kurtosis"
   },
   {
     "factor_id": "R251",
@@ -1789,7 +1852,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R251-5d-compressed-volume-expansion"
   },
   {
     "factor_id": "R252",
@@ -1817,7 +1881,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R252-5d-compressed-volume-z-score"
   },
   {
     "factor_id": "R253",
@@ -1845,7 +1910,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R253-5d-compressed-dollar-volume-activity"
   },
   {
     "factor_id": "R254",
@@ -1873,7 +1939,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R254-5d-compressed-price-volume-correlation"
   },
   {
     "factor_id": "R255",
@@ -1901,7 +1968,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R255-5d-compressed-obv-slope"
   },
   {
     "factor_id": "R261",
@@ -1929,7 +1997,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R261-5d-compressed-close-ts-rank"
   },
   {
     "factor_id": "R262",
@@ -1957,7 +2026,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R262-5d-compressed-volume-ts-rank"
   },
   {
     "factor_id": "R263",
@@ -1985,7 +2055,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R263-5d-compressed-return-skewness"
   },
   {
     "factor_id": "R264",
@@ -2013,7 +2084,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R264-5d-compressed-return-kurtosis"
   },
   {
     "factor_id": "R284",
@@ -2041,7 +2113,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R284-7d-z-scored-volume-expansion"
   },
   {
     "factor_id": "R285",
@@ -2069,7 +2142,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R285-7d-z-scored-volume-z-score"
   },
   {
     "factor_id": "R286",
@@ -2097,7 +2171,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R286-7d-z-scored-dollar-volume-activity"
   },
   {
     "factor_id": "R287",
@@ -2125,7 +2200,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R287-7d-z-scored-price-volume-correlation"
   },
   {
     "factor_id": "R288",
@@ -2153,7 +2229,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R288-7d-z-scored-obv-slope"
   },
   {
     "factor_id": "R294",
@@ -2181,7 +2258,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R294-7d-z-scored-close-ts-rank"
   },
   {
     "factor_id": "R295",
@@ -2209,7 +2287,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R295-7d-z-scored-volume-ts-rank"
   },
   {
     "factor_id": "R296",
@@ -2237,7 +2316,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R296-7d-z-scored-return-skewness"
   },
   {
     "factor_id": "R297",
@@ -2265,7 +2345,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R297-7d-z-scored-return-kurtosis"
   },
   {
     "factor_id": "R317",
@@ -2293,7 +2374,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R317-7d-delta-volume-expansion"
   },
   {
     "factor_id": "R318",
@@ -2321,7 +2403,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R318-7d-delta-volume-z-score"
   },
   {
     "factor_id": "R319",
@@ -2349,7 +2432,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R319-7d-delta-dollar-volume-activity"
   },
   {
     "factor_id": "R320",
@@ -2377,7 +2461,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R320-7d-delta-price-volume-correlation"
   },
   {
     "factor_id": "R321",
@@ -2405,7 +2490,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R321-7d-delta-obv-slope"
   },
   {
     "factor_id": "R327",
@@ -2433,7 +2519,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R327-7d-delta-close-ts-rank"
   },
   {
     "factor_id": "R328",
@@ -2461,7 +2548,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R328-7d-delta-volume-ts-rank"
   },
   {
     "factor_id": "R329",
@@ -2489,7 +2577,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R329-7d-delta-return-skewness"
   },
   {
     "factor_id": "R330",
@@ -2517,7 +2606,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R330-7d-delta-return-kurtosis"
   },
   {
     "factor_id": "R350",
@@ -2545,7 +2635,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R350-7d-smoothed-volume-expansion"
   },
   {
     "factor_id": "R351",
@@ -2573,7 +2664,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R351-7d-smoothed-volume-z-score"
   },
   {
     "factor_id": "R352",
@@ -2601,7 +2693,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R352-7d-smoothed-dollar-volume-activity"
   },
   {
     "factor_id": "R353",
@@ -2629,7 +2722,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R353-7d-smoothed-price-volume-correlation"
   },
   {
     "factor_id": "R354",
@@ -2657,7 +2751,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R354-7d-smoothed-obv-slope"
   },
   {
     "factor_id": "R360",
@@ -2685,7 +2780,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R360-7d-smoothed-close-ts-rank"
   },
   {
     "factor_id": "R361",
@@ -2713,7 +2809,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R361-7d-smoothed-volume-ts-rank"
   },
   {
     "factor_id": "R362",
@@ -2741,7 +2838,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R362-7d-smoothed-return-skewness"
   },
   {
     "factor_id": "R363",
@@ -2769,7 +2867,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R363-7d-smoothed-return-kurtosis"
   },
   {
     "factor_id": "R383",
@@ -2797,7 +2896,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R383-7d-time-series-ranked-volume-expansion"
   },
   {
     "factor_id": "R384",
@@ -2825,7 +2925,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R384-7d-time-series-ranked-volume-z-score"
   },
   {
     "factor_id": "R385",
@@ -2853,7 +2954,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R385-7d-time-series-ranked-dollar-volume-activity"
   },
   {
     "factor_id": "R386",
@@ -2881,7 +2983,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R386-7d-time-series-ranked-price-volume-correlation"
   },
   {
     "factor_id": "R387",
@@ -2909,7 +3012,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R387-7d-time-series-ranked-obv-slope"
   },
   {
     "factor_id": "R393",
@@ -2937,7 +3041,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R393-7d-time-series-ranked-close-ts-rank"
   },
   {
     "factor_id": "R394",
@@ -2965,7 +3070,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R394-7d-time-series-ranked-volume-ts-rank"
   },
   {
     "factor_id": "R395",
@@ -2993,7 +3099,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R395-7d-time-series-ranked-return-skewness"
   },
   {
     "factor_id": "R396",
@@ -3021,7 +3128,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R396-7d-time-series-ranked-return-kurtosis"
   },
   {
     "factor_id": "R416",
@@ -3049,7 +3157,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R416-7d-volatility-scaled-volume-expansion"
   },
   {
     "factor_id": "R417",
@@ -3077,7 +3186,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R417-7d-volatility-scaled-volume-z-score"
   },
   {
     "factor_id": "R418",
@@ -3105,7 +3215,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R418-7d-volatility-scaled-dollar-volume-activity"
   },
   {
     "factor_id": "R419",
@@ -3133,7 +3244,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R419-7d-volatility-scaled-price-volume-correlation"
   },
   {
     "factor_id": "R420",
@@ -3161,7 +3273,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R420-7d-volatility-scaled-obv-slope"
   },
   {
     "factor_id": "R426",
@@ -3189,7 +3302,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R426-7d-volatility-scaled-close-ts-rank"
   },
   {
     "factor_id": "R427",
@@ -3217,7 +3331,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R427-7d-volatility-scaled-volume-ts-rank"
   },
   {
     "factor_id": "R428",
@@ -3245,7 +3360,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R428-7d-volatility-scaled-return-skewness"
   },
   {
     "factor_id": "R429",
@@ -3273,7 +3389,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R429-7d-volatility-scaled-return-kurtosis"
   },
   {
     "factor_id": "R449",
@@ -3301,7 +3418,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R449-7d-stability-scaled-volume-expansion"
   },
   {
     "factor_id": "R450",
@@ -3329,7 +3447,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R450-7d-stability-scaled-volume-z-score"
   },
   {
     "factor_id": "R451",
@@ -3357,7 +3476,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R451-7d-stability-scaled-dollar-volume-activity"
   },
   {
     "factor_id": "R452",
@@ -3385,7 +3505,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R452-7d-stability-scaled-price-volume-correlation"
   },
   {
     "factor_id": "R453",
@@ -3413,7 +3534,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R453-7d-stability-scaled-obv-slope"
   },
   {
     "factor_id": "R459",
@@ -3441,7 +3563,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R459-7d-stability-scaled-close-ts-rank"
   },
   {
     "factor_id": "R460",
@@ -3469,7 +3592,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R460-7d-stability-scaled-volume-ts-rank"
   },
   {
     "factor_id": "R461",
@@ -3497,7 +3621,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R461-7d-stability-scaled-return-skewness"
   },
   {
     "factor_id": "R462",
@@ -3525,7 +3650,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R462-7d-stability-scaled-return-kurtosis"
   },
   {
     "factor_id": "R482",
@@ -3553,7 +3679,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R482-7d-volume-confirmed-volume-expansion"
   },
   {
     "factor_id": "R483",
@@ -3581,7 +3708,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R483-7d-volume-confirmed-volume-z-score"
   },
   {
     "factor_id": "R484",
@@ -3609,7 +3737,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R484-7d-volume-confirmed-dollar-volume-activity"
   },
   {
     "factor_id": "R485",
@@ -3637,7 +3766,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R485-7d-volume-confirmed-price-volume-correlation"
   },
   {
     "factor_id": "R486",
@@ -3665,7 +3795,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R486-7d-volume-confirmed-obv-slope"
   },
   {
     "factor_id": "R492",
@@ -3693,7 +3824,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R492-7d-volume-confirmed-close-ts-rank"
   },
   {
     "factor_id": "R493",
@@ -3721,7 +3853,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R493-7d-volume-confirmed-volume-ts-rank"
   },
   {
     "factor_id": "R494",
@@ -3749,7 +3882,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R494-7d-volume-confirmed-return-skewness"
   },
   {
     "factor_id": "R495",
@@ -3777,7 +3911,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R495-7d-volume-confirmed-return-kurtosis"
   },
   {
     "factor_id": "R515",
@@ -3805,7 +3940,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R515-7d-compressed-volume-expansion"
   },
   {
     "factor_id": "R516",
@@ -3833,7 +3969,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R516-7d-compressed-volume-z-score"
   },
   {
     "factor_id": "R517",
@@ -3861,7 +3998,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R517-7d-compressed-dollar-volume-activity"
   },
   {
     "factor_id": "R518",
@@ -3889,7 +4027,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R518-7d-compressed-price-volume-correlation"
   },
   {
     "factor_id": "R519",
@@ -3917,7 +4056,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R519-7d-compressed-obv-slope"
   },
   {
     "factor_id": "R525",
@@ -3945,7 +4085,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R525-7d-compressed-close-ts-rank"
   },
   {
     "factor_id": "R526",
@@ -3973,7 +4114,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R526-7d-compressed-volume-ts-rank"
   },
   {
     "factor_id": "R527",
@@ -4001,7 +4143,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R527-7d-compressed-return-skewness"
   },
   {
     "factor_id": "R528",
@@ -4029,7 +4172,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R528-7d-compressed-return-kurtosis"
   },
   {
     "factor_id": "R548",
@@ -4057,7 +4201,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R548-10d-z-scored-volume-expansion"
   },
   {
     "factor_id": "R549",
@@ -4085,7 +4230,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R549-10d-z-scored-volume-z-score"
   },
   {
     "factor_id": "R550",
@@ -4113,7 +4259,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R550-10d-z-scored-dollar-volume-activity"
   },
   {
     "factor_id": "R551",
@@ -4141,7 +4288,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R551-10d-z-scored-price-volume-correlation"
   },
   {
     "factor_id": "R552",
@@ -4169,7 +4317,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R552-10d-z-scored-obv-slope"
   },
   {
     "factor_id": "R558",
@@ -4197,7 +4346,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R558-10d-z-scored-close-ts-rank"
   },
   {
     "factor_id": "R559",
@@ -4225,7 +4375,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R559-10d-z-scored-volume-ts-rank"
   },
   {
     "factor_id": "R560",
@@ -4253,7 +4404,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R560-10d-z-scored-return-skewness"
   },
   {
     "factor_id": "R561",
@@ -4281,7 +4433,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R561-10d-z-scored-return-kurtosis"
   },
   {
     "factor_id": "R581",
@@ -4309,7 +4462,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R581-10d-delta-volume-expansion"
   },
   {
     "factor_id": "R582",
@@ -4337,7 +4491,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R582-10d-delta-volume-z-score"
   },
   {
     "factor_id": "R583",
@@ -4365,7 +4520,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R583-10d-delta-dollar-volume-activity"
   },
   {
     "factor_id": "R584",
@@ -4393,7 +4549,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R584-10d-delta-price-volume-correlation"
   },
   {
     "factor_id": "R585",
@@ -4421,7 +4578,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R585-10d-delta-obv-slope"
   },
   {
     "factor_id": "R591",
@@ -4449,7 +4607,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R591-10d-delta-close-ts-rank"
   },
   {
     "factor_id": "R592",
@@ -4477,7 +4636,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R592-10d-delta-volume-ts-rank"
   },
   {
     "factor_id": "R593",
@@ -4505,7 +4665,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R593-10d-delta-return-skewness"
   },
   {
     "factor_id": "R594",
@@ -4533,7 +4694,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R594-10d-delta-return-kurtosis"
   },
   {
     "factor_id": "R614",
@@ -4561,7 +4723,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R614-10d-smoothed-volume-expansion"
   },
   {
     "factor_id": "R615",
@@ -4589,7 +4752,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R615-10d-smoothed-volume-z-score"
   },
   {
     "factor_id": "R616",
@@ -4617,7 +4781,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R616-10d-smoothed-dollar-volume-activity"
   },
   {
     "factor_id": "R617",
@@ -4645,7 +4810,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R617-10d-smoothed-price-volume-correlation"
   },
   {
     "factor_id": "R618",
@@ -4673,7 +4839,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R618-10d-smoothed-obv-slope"
   },
   {
     "factor_id": "R624",
@@ -4701,7 +4868,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R624-10d-smoothed-close-ts-rank"
   },
   {
     "factor_id": "R625",
@@ -4729,7 +4897,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R625-10d-smoothed-volume-ts-rank"
   },
   {
     "factor_id": "R626",
@@ -4757,7 +4926,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R626-10d-smoothed-return-skewness"
   },
   {
     "factor_id": "R627",
@@ -4785,7 +4955,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R627-10d-smoothed-return-kurtosis"
   },
   {
     "factor_id": "R647",
@@ -4813,7 +4984,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R647-10d-time-series-ranked-volume-expansion"
   },
   {
     "factor_id": "R648",
@@ -4841,7 +5013,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R648-10d-time-series-ranked-volume-z-score"
   },
   {
     "factor_id": "R649",
@@ -4869,7 +5042,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R649-10d-time-series-ranked-dollar-volume-activity"
   },
   {
     "factor_id": "R650",
@@ -4897,7 +5071,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R650-10d-time-series-ranked-price-volume-correlation"
   },
   {
     "factor_id": "R651",
@@ -4925,7 +5100,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R651-10d-time-series-ranked-obv-slope"
   },
   {
     "factor_id": "R657",
@@ -4953,7 +5129,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R657-10d-time-series-ranked-close-ts-rank"
   },
   {
     "factor_id": "R658",
@@ -4981,7 +5158,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R658-10d-time-series-ranked-volume-ts-rank"
   },
   {
     "factor_id": "R659",
@@ -5009,7 +5187,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R659-10d-time-series-ranked-return-skewness"
   },
   {
     "factor_id": "R660",
@@ -5037,7 +5216,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R660-10d-time-series-ranked-return-kurtosis"
   },
   {
     "factor_id": "R680",
@@ -5065,7 +5245,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R680-10d-volatility-scaled-volume-expansion"
   },
   {
     "factor_id": "R681",
@@ -5093,7 +5274,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R681-10d-volatility-scaled-volume-z-score"
   },
   {
     "factor_id": "R682",
@@ -5121,7 +5303,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R682-10d-volatility-scaled-dollar-volume-activity"
   },
   {
     "factor_id": "R683",
@@ -5149,7 +5332,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R683-10d-volatility-scaled-price-volume-correlation"
   },
   {
     "factor_id": "R684",
@@ -5177,7 +5361,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R684-10d-volatility-scaled-obv-slope"
   },
   {
     "factor_id": "R690",
@@ -5205,7 +5390,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R690-10d-volatility-scaled-close-ts-rank"
   },
   {
     "factor_id": "R691",
@@ -5233,7 +5419,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R691-10d-volatility-scaled-volume-ts-rank"
   },
   {
     "factor_id": "R692",
@@ -5261,7 +5448,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R692-10d-volatility-scaled-return-skewness"
   },
   {
     "factor_id": "R693",
@@ -5289,7 +5477,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R693-10d-volatility-scaled-return-kurtosis"
   },
   {
     "factor_id": "R713",
@@ -5317,7 +5506,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R713-10d-stability-scaled-volume-expansion"
   },
   {
     "factor_id": "R714",
@@ -5345,7 +5535,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R714-10d-stability-scaled-volume-z-score"
   },
   {
     "factor_id": "R715",
@@ -5373,7 +5564,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R715-10d-stability-scaled-dollar-volume-activity"
   },
   {
     "factor_id": "R716",
@@ -5401,7 +5593,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R716-10d-stability-scaled-price-volume-correlation"
   },
   {
     "factor_id": "R717",
@@ -5429,7 +5622,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R717-10d-stability-scaled-obv-slope"
   },
   {
     "factor_id": "R723",
@@ -5457,7 +5651,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R723-10d-stability-scaled-close-ts-rank"
   },
   {
     "factor_id": "R724",
@@ -5485,7 +5680,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R724-10d-stability-scaled-volume-ts-rank"
   },
   {
     "factor_id": "R725",
@@ -5513,7 +5709,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R725-10d-stability-scaled-return-skewness"
   },
   {
     "factor_id": "R726",
@@ -5541,7 +5738,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R726-10d-stability-scaled-return-kurtosis"
   },
   {
     "factor_id": "R746",
@@ -5569,7 +5767,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R746-10d-volume-confirmed-volume-expansion"
   },
   {
     "factor_id": "R747",
@@ -5597,7 +5796,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R747-10d-volume-confirmed-volume-z-score"
   },
   {
     "factor_id": "R748",
@@ -5625,7 +5825,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R748-10d-volume-confirmed-dollar-volume-activity"
   },
   {
     "factor_id": "R749",
@@ -5653,7 +5854,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R749-10d-volume-confirmed-price-volume-correlation"
   },
   {
     "factor_id": "R750",
@@ -5681,7 +5883,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R750-10d-volume-confirmed-obv-slope"
   },
   {
     "factor_id": "R756",
@@ -5709,7 +5912,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R756-10d-volume-confirmed-close-ts-rank"
   },
   {
     "factor_id": "R757",
@@ -5737,7 +5941,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R757-10d-volume-confirmed-volume-ts-rank"
   },
   {
     "factor_id": "R758",
@@ -5765,7 +5970,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R758-10d-volume-confirmed-return-skewness"
   },
   {
     "factor_id": "R759",
@@ -5793,7 +5999,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R759-10d-volume-confirmed-return-kurtosis"
   },
   {
     "factor_id": "R779",
@@ -5821,7 +6028,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R779-10d-compressed-volume-expansion"
   },
   {
     "factor_id": "R780",
@@ -5849,7 +6057,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R780-10d-compressed-volume-z-score"
   },
   {
     "factor_id": "R781",
@@ -5877,7 +6086,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R781-10d-compressed-dollar-volume-activity"
   },
   {
     "factor_id": "R782",
@@ -5905,7 +6115,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R782-10d-compressed-price-volume-correlation"
   },
   {
     "factor_id": "R783",
@@ -5933,7 +6144,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R783-10d-compressed-obv-slope"
   },
   {
     "factor_id": "R789",
@@ -5961,7 +6173,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R789-10d-compressed-close-ts-rank"
   },
   {
     "factor_id": "R790",
@@ -5989,7 +6202,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R790-10d-compressed-volume-ts-rank"
   },
   {
     "factor_id": "R791",
@@ -6017,7 +6231,8 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R791-10d-compressed-return-skewness"
   },
   {
     "factor_id": "R792",
@@ -6045,6 +6260,7 @@
     "repository": "skill-quant-factor-volume-stat-alpha",
     "collection": "volume-stat-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-volume-stat-alpha",
+    "path": "factors/R792-10d-compressed-return-kurtosis"
   }
 ]
