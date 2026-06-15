@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quant Factor Volume Stat Alpha"
+  short_description: "Local QuantSkills agent skill for Quant Factor Volume Stat Alpha"
+  default_prompt: "Use $quant-factor-volume-stat-alpha to help with my QuantSkills request."
